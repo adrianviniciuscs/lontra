@@ -1,0 +1,2606 @@
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "1"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:45:27.806 -03"]
+[GameStartTime "2025-05-24T15:45:27.650 -03"]
+[Opening "Saragossa Opening"]
+[PlyCount "14"]
+[TimeControl "1"]
+
+1. c3 e5 {+0.24/9 0.029s} 2. Nh3 d5 {+0.58/7 0.010s} 3. g3 Bd6 {+1.00/6 0.012s}
+4. Nf4 exf4 {+5.18/10 0.013s} 5. c4 dxc4 {+6.00/11 0.033s} 6. h3
+fxg3 {+8.01/10 0.020s} 7. fxg3 Bxg3# {+M1/10 0.025s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "2"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:45:28.174 -03"]
+[GameStartTime "2025-05-24T15:45:27.817 -03"]
+[Opening "Mieses Opening"]
+[PlyCount "35"]
+[TimeControl "1"]
+
+1. d3 {+0.46/8 0.026s} e6 2. e4 {+0.11/9 0.029s} c5 3. Be2 {0.00/8 0.032s} b5
+4. a4 {+0.52/7 0.008s} g5 5. axb5 {+2.78/8 0.010s} g4 6. Na3 {+3.76/9 0.020s}
+Qe7 7. h3 {+4.28/10 0.028s} Qf6 8. hxg4 {+5.19/10 0.020s} Qd4
+9. c3 {+6.09/12 0.032s} a6 10. cxd4 {+8.70/9 0.013s} Ke7
+11. Bf4 {+10.93/10 0.024s} f6 12. Qc1 {+11.57/9 0.018s} c4
+13. Qxc4 {+12.81/11 0.017s} h6 14. Qxc8 {+14.81/10 0.016s} Ra7
+15. Bxb8 {+19.35/12 0.012s} Bg7 16. Nc4 {+18.86/11 0.018s} Ra8
+17. Nd6 {+24.93/8 0.006s} e5 18. Qe8# {+M1/9 0.004s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "3"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "B02"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:45:28.458 -03"]
+[GameStartTime "2025-05-24T15:45:28.185 -03"]
+[Opening "Alekhine's defense"]
+[PlyCount "26"]
+[TimeControl "1"]
+
+1. e4 Nf6 {-0.33/8 0.029s} 2. h4 d5 {+1.08/10 0.009s} 3. Be2
+dxe4 {+1.70/8 0.011s} 4. Bd3 exd3 {+7.66/10 0.009s} 5. h5 dxc2 {+7.73/12 0.039s}
+6. g4 cxd1=N {+13.24/10 0.013s} 7. Ke2 Nxf2 {+15.13/10 0.018s} 8. Nf3
+N6e4 {+17.46/11 0.024s} 9. Ne1 Qd5 {+21.19/12 0.033s} 10. b3
+Bxg4+ {+23.21/12 0.035s} 11. Kf1 Nd1 {+M9/13 0.020s} 12. Ba3
+Ng3+ {+M3/11 0.003s} 13. Kg1 Qxh1# {+M1/10 0.009s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "4"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:45:28.838 -03"]
+[GameStartTime "2025-05-24T15:45:28.468 -03"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "41"]
+[TimeControl "1"]
+
+1. e3 {+0.46/8 0.025s} c5 2. e4 {+0.32/9 0.028s} g6 3. Be2 {+0.68/8 0.029s} f5
+4. exf5 {+0.87/7 0.009s} e5 5. fxe6 {+1.79/10 0.020s} b6
+6. exd7+ {+3.42/8 0.014s} Kxd7 7. d3 {+4.71/9 0.015s} Qe7
+8. Nd2 {+4.37/10 0.033s} Nh6 9. Ngf3 {+4.41/10 0.034s} Nc6
+10. Ne4 {+4.35/11 0.028s} Nb4 11. Bf4 {+5.79/10 0.021s} Ke6
+12. Neg5+ {+6.21/8 0.010s} Kd7 13. a3 {+5.99/12 0.025s} Nc6
+14. d4 {+6.14/8 0.013s} Bb7 15. d5 {+6.14/9 0.018s} Qd8
+16. dxc6+ {+10.25/8 0.004s} Ke8 17. cxb7 {+12.33/10 0.006s} b5
+18. bxa8=R {+M5/12 0.004s} Ng8 19. Rxd8+ {+M1/14 0.001s} Ke7
+20. Qd7+ {+M1/10 0.002s} Kf6 21. Ne4# {+M1/10 0.002s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "5"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:45:29.249 -03"]
+[GameStartTime "2025-05-24T15:45:28.849 -03"]
+[Opening "Mieses Opening"]
+[PlyCount "46"]
+[TimeControl "1"]
+
+1. d3 d5 {+0.11/7 0.030s} 2. Bg5 h6 {+0.75/8 0.022s} 3. Bxh6
+Nxh6 {+5.73/12 0.029s} 4. f3 d4 {+6.53/12 0.031s} 5. b3 Bd7 {+7.28/11 0.028s}
+6. e3 dxe3 {+6.69/11 0.031s} 7. Na3 Nf5 {+7.97/9 0.012s} 8. Qc1
+e5 {+7.65/13 0.027s} 9. Rb1 Nc6 {+8.70/11 0.012s} 10. Ke2 a5 {+9.39/8 0.011s}
+11. g4 Nfe7 {+9.04/10 0.022s} 12. Qxe3 Nd5 {+9.29/11 0.017s} 13. Bh3
+Nd4+ {+11.71/10 0.013s} 14. Qxd4 exd4 {+9.52/10 0.010s} 15. Ke1
+Rh6 {+12.22/10 0.009s} 16. Ra1 Bxa3 {+13.92/12 0.014s} 17. Kf2
+Qh4+ {+13.44/10 0.012s} 18. Kf1 Bb4 {+M15/11 0.016s} 19. Ke2
+O-O-O {+M7/10 0.004s} 20. Kf1 Ne3+ {+M11/12 0.012s} 21. Ke2 Re6 {+M9/10 0.003s}
+22. a4 Nxg4+ {+M3/14 0.001s} 23. Kf1 Qf2# {+M1/10 0.002s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "1"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A02"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:06.219 -03"]
+[GameStartTime "2025-05-24T15:49:05.948 -03"]
+[Opening "Bird's Opening"]
+[PlyCount "28"]
+[TimeControl "1"]
+
+1. f4 Nf6 {+0.44/9 0.027s} 2. a4 d5 {+0.54/11 0.028s} 3. d4 c5 {+0.86/8 0.016s}
+4. a5 Bf5 {+1.64/10 0.016s} 5. Be3 Ng4 {+2.14/9 0.030s} 6. Nc3
+Nxe3 {+7.14/9 0.008s} 7. Qc1 cxd4 {+7.14/11 0.021s} 8. Qd2 a6 {+8.84/10 0.007s}
+9. Na2 Nc6 {+8.50/13 0.034s} 10. Qd3 Bxd3 {+13.08/10 0.006s} 11. b4
+Bc4 {+13.91/12 0.037s} 12. Kd2 e5 {+15.04/11 0.014s} 13. Nc1
+Bxb4+ {+M3/10 0.004s} 14. c3 Bxc3# {+M1/12 0.010s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "2"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:06.629 -03"]
+[GameStartTime "2025-05-24T15:49:06.230 -03"]
+[Opening "Mieses Opening"]
+[PlyCount "61"]
+[TimeControl "1"]
+
+1. d3 {+0.46/8 0.022s} f5 2. d4 {+0.95/8 0.011s} h6 3. d5 {+2.84/8 0.019s} b5
+4. c4 {+2.43/8 0.014s} Na6 5. Nf3 {+2.41/8 0.019s} c5 6. cxb5 {+2.58/9 0.019s}
+g6 7. bxa6 {+5.36/9 0.009s} Nf6 8. Ne5 {+5.29/11 0.037s} Ng8
+9. e3 {+6.59/12 0.030s} h5 10. Nxg6 {+7.11/13 0.031s} e5
+11. Nc3 {+7.50/9 0.011s} e4 12. Nf4 {+7.81/10 0.013s} Be7
+13. d6 {+8.29/10 0.019s} Bxa6 14. Bxa6 {+8.77/11 0.020s} Nh6
+15. Ncd5 {+10.89/9 0.005s} h4 16. dxe7 {+12.88/11 0.005s} Qxe7
+17. Bb5 {+12.74/11 0.020s} Rh7 18. Nxe7 {+13.26/10 0.013s} Kf8
+19. Ned5 {+16.60/10 0.011s} Rh8 20. Nf6 {+16.77/10 0.009s} Rd8
+21. Qd6+ {+M9/10 0.008s} Kg7 22. N6h5+ {+M7/10 0.004s} Kg8
+23. Nf6+ {+M5/10 0.001s} Kf7 24. Bc4+ {+M5/11 0.005s} Kg7
+25. Qe7+ {+M3/10 0.002s} Nf7 26. Qxf7+ {+M3/10 0.007s} Kh6
+27. Qh5+ {+M1/20 0.001s} Kg7 28. Qf7+ {+M3/15 0.001s} Kh6 29. g4 {+M1/23 0.001s}
+Rhf8 30. Qh7+ {+M1/26 0.001s} Kg5 31. Qg7# {+M1/31 0.001s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "3"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:07.037 -03"]
+[GameStartTime "2025-05-24T15:49:06.639 -03"]
+[Opening "Saragossa Opening"]
+[PlyCount "50"]
+[TimeControl "1"]
+
+1. c3 d5 {+0.16/9 0.030s} 2. d3 Nf6 {+0.46/8 0.014s} 3. Bf4 h6 {+0.44/7 0.014s}
+4. Be5 Nfd7 {+0.63/8 0.023s} 5. g4 Nxe5 {+6.19/7 0.008s} 6. g5
+hxg5 {+7.23/10 0.009s} 7. b3 Ng6 {+7.72/11 0.016s} 8. d4 g4 {+7.85/11 0.027s}
+9. f3 Nh4 {+8.09/12 0.023s} 10. Bh3 c5 {+8.44/9 0.014s} 11. Kf2
+gxh3 {+9.22/9 0.006s} 12. Ke3 Nc6 {+10.74/11 0.037s} 13. Qc2
+b6 {+11.57/10 0.013s} 14. Qf5 Bxf5 {+13.74/12 0.019s} 15. c4
+e6 {+17.73/12 0.029s} 16. f4 Qc7 {+18.19/12 0.031s} 17. Nf3
+g5 {+17.64/12 0.024s} 18. Nxg5 Bg7 {+20.56/10 0.009s} 19. dxc5
+Nb4 {+M11/10 0.006s} 20. Kd2 dxc4 {+M7/12 0.010s} 21. Rg1 Qxf4+ {+M7/10 0.003s}
+22. e3 Qf2+ {+M5/10 0.001s} 23. Kd1 Rd8+ {+M3/10 0.001s} 24. Nd2
+Bc2+ {+M1/21 0.001s} 25. Kc1 Qxd2# {+M1/16 0.001s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "4"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:07.331 -03"]
+[GameStartTime "2025-05-24T15:49:07.047 -03"]
+[Opening "Mieses Opening"]
+[PlyCount "33"]
+[TimeControl "1"]
+
+1. d3 {+0.46/8 0.023s} h5 2. c4 {+0.45/8 0.021s} g6 3. e4 {+0.59/9 0.029s} e6
+4. Nf3 {+0.99/8 0.017s} Bh6 5. h3 {+1.34/8 0.009s} Be3 6. Bxe3 {+7.33/9 0.008s}
+Nh6 7. Qd2 {+7.51/12 0.037s} b6 8. Nc3 {+7.58/12 0.033s} Qg5
+9. Bxg5 {+10.88/12 0.016s} O-O 10. d4 {+11.98/11 0.016s} d6
+11. Qf4 {+12.01/11 0.021s} Bb7 12. b3 {+12.00/9 0.008s} a6
+13. Bxh6 {+11.97/10 0.017s} Bc8 14. Qf6 {+M3/10 0.005s} Re8
+15. d5 {+M1/25 0.001s} h4 16. e5 {+M1/35 0.002s} dxe5
+17. Qg7# {+M1/34 0.002s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "5"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A01"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:07.707 -03"]
+[GameStartTime "2025-05-24T15:49:07.341 -03"]
+[Opening "Nimzowitsch-Larsen attack"]
+[PlyCount "54"]
+[TimeControl "1"]
+[Variation "Classical variation"]
+
+1. b3 d5 {+0.35/8 0.027s} 2. a3 Nf6 {+0.56/7 0.008s} 3. b4 g6 {+1.10/8 0.021s}
+4. c4 Bg7 {+1.51/8 0.012s} 5. Nh3 Bxh3 {+2.80/8 0.007s} 6. Qa4+
+Qd7 {+6.70/10 0.008s} 7. Qd1 Bf5 {+6.41/13 0.041s} 8. d4 a5 {+6.36/13 0.039s}
+9. Bb2 h5 {+6.51/12 0.034s} 10. Qa4 Qxa4 {+9.93/9 0.005s} 11. f4
+dxc4 {+13.06/11 0.009s} 12. h3 Qb3 {+14.44/10 0.005s} 13. Nd2
+Qxb2 {+14.45/13 0.034s} 14. g3 axb4 {+17.18/11 0.017s} 15. Bg2
+Qxa1+ {+17.32/10 0.015s} 16. Nb1 Rxa3 {+18.55/11 0.014s} 17. Kd2
+Rb3 {+M9/12 0.012s} 18. Nc3 Qxc3+ {+M3/10 0.002s} 19. Kd1 Bc2+ {+M1/26 0.002s}
+20. Kc1 Bf5+ {+M1/32 0.002s} 21. Kd1 Qa1+ {+M1/29 0.002s} 22. Kd2
+Qxd4+ {+M3/19 0.003s} 23. Ke1 Qc3+ {+M1/17 0.002s} 24. Kf2 Qe3+ {+M3/24 0.002s}
+25. Ke1 Qc1+ {+M1/19 0.002s} 26. Kf2 Qe3+ {+M3/11 0.008s} 27. Kf1
+Rb1# {+M1/18 0.002s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "6"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:08.132 -03"]
+[GameStartTime "2025-05-24T15:49:07.717 -03"]
+[Opening "Mieses Opening"]
+[PlyCount "45"]
+[TimeControl "1"]
+
+1. d3 {+0.46/9 0.025s} f6 2. d4 {+0.88/8 0.015s} e6 3. c3 {+0.82/10 0.034s} Bb4
+4. e3 {+5.74/10 0.016s} h5 5. cxb4 {+6.79/7 0.012s} Ne7 6. Be2 {+6.29/11 0.037s}
+b5 7. Nf3 {+6.69/10 0.022s} g5 8. Nc3 {+6.33/11 0.033s} g4
+9. Ng1 {+5.62/13 0.029s} d5 10. Bd2 {+6.54/9 0.010s} a6
+11. Rc1 {+5.92/11 0.025s} e5 12. h4 {+5.10/11 0.026s} Qd6
+13. Bd3 {+5.07/10 0.015s} Kf7 14. a3 {+5.68/10 0.021s} Bb7
+15. Nce2 {+5.82/10 0.015s} Qxb4 16. Bxb4 {+9.51/10 0.007s} c6
+17. Qb3 {+10.41/10 0.016s} Kf8 18. Bf5 {+11.38/8 0.003s} Nd7
+19. Bxd7 {+11.16/10 0.011s} g3 20. Nxg3 {+13.03/9 0.009s} Bc8
+21. dxe5 {+14.58/8 0.003s} d4 22. Nf5 {+19.73/11 0.009s} d3
+23. Bxe7# {+M1/10 0.001s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "7"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:08.528 -03"]
+[GameStartTime "2025-05-24T15:49:08.143 -03"]
+[Opening "Durkin's attack"]
+[PlyCount "48"]
+[TimeControl "1"]
+
+1. Na3 e6 {+0.70/8 0.029s} 2. g4 e5 {+1.12/9 0.026s} 3. d3 c6 {+1.52/9 0.020s}
+4. Nb1 Qc7 {+1.34/9 0.032s} 5. b3 Ne7 {+1.53/8 0.025s} 6. Bg5
+h5 {+1.79/9 0.023s} 7. d4 hxg4 {+3.35/10 0.020s} 8. h3 f6 {+3.53/10 0.025s}
+9. Bxf6 gxf6 {+5.95/10 0.016s} 10. Bg2 d6 {+5.63/11 0.031s} 11. Bxc6+
+bxc6 {+8.53/9 0.009s} 12. h4 exd4 {+8.84/11 0.025s} 13. e3
+dxe3 {+8.55/12 0.017s} 14. a3 exf2+ {+10.36/10 0.014s} 15. Kd2
+Qb6 {+12.14/8 0.010s} 16. Kd3 Rh5 {+16.80/7 0.005s} 17. Nh3
+Re5 {+13.94/10 0.019s} 18. Ng1 Qe3+ {+34.69/6 0.005s} 19. Kc4
+Re4+ {+M3/7 0.004s} 20. Qd4 f1=Q+ {+M1/10 0.002s} 21. Kb4 Na6+ {+M1/10 0.001s}
+22. Ka4 Nc5+ {+M1/16 0.001s} 23. Ka5 Qa6+ {+M1/18 0.002s} 24. Kb4
+Qb5# {+M1/18 0.002s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "8"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:08.921 -03"]
+[GameStartTime "2025-05-24T15:49:08.539 -03"]
+[Opening "Mieses Opening"]
+[PlyCount "37"]
+[TimeControl "1"]
+
+1. d3 {+0.46/8 0.024s} d5 2. Nf3 {-0.13/9 0.029s} f5 3. c4 {+0.68/10 0.030s} a6
+4. cxd5 {+1.29/7 0.014s} Kf7 5. Qb3 {+3.23/8 0.011s} g6 6. Bd2 {+3.80/9 0.024s}
+b5 7. Nc3 {+4.18/9 0.021s} Be6 8. Ng5+ {+8.59/9 0.012s} Ke8
+9. Nxe6 {+8.10/10 0.016s} Kd7 10. e4 {+9.96/10 0.031s} Bh6
+11. Be3 {+9.15/10 0.020s} Qc8 12. Kd1 {+8.89/10 0.032s} g5
+13. a3 {+9.98/11 0.028s} Bg7 14. Be2 {+10.42/10 0.021s} Bxc3
+15. Qxc3 {+9.25/10 0.018s} b4 16. Nc5+ {+12.12/6 0.003s} Kd8
+17. Qxh8 {+13.94/9 0.011s} Nd7 18. Qxg8+ {+M3/10 0.007s} Nf8
+19. Qxf8# {+M1/10 0.005s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "9"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:09.176 -03"]
+[GameStartTime "2025-05-24T15:49:08.931 -03"]
+[Opening "Saragossa Opening"]
+[PlyCount "32"]
+[TimeControl "1"]
+
+1. c3 e5 {+0.24/9 0.027s} 2. c4 Nf6 {+0.52/8 0.024s} 3. d3 d5 {+0.47/9 0.031s}
+4. Bf4 exf4 {+6.27/8 0.013s} 5. g3 Bb4+ {+6.53/9 0.010s} 6. Nc3
+dxc4 {+6.20/12 0.035s} 7. e4 Bxc3+ {+7.79/10 0.007s} 8. Qd2
+Bxd2+ {+10.53/10 0.008s} 9. Ke2 Qxd3+ {+M11/13 0.033s} 10. Kd1
+Qxf1+ {+M9/12 0.007s} 11. Kc2 Qd3+ {+M7/12 0.011s} 12. Kd1 Ba5+ {+M5/31 0.003s}
+13. Kc1 Bd2+ {+M3/12 0.004s} 14. Kd1 Ba5+ {+M5/26 0.003s} 15. Kc1
+Qd2+ {+M3/13 0.007s} 16. Kb1 Qd1# {+M1/25 0.003s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "10"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:09.442 -03"]
+[GameStartTime "2025-05-24T15:49:09.186 -03"]
+[Opening "Mieses Opening"]
+[PlyCount "25"]
+[TimeControl "1"]
+
+1. d3 {+0.46/8 0.025s} e6 2. e3 {+0.24/8 0.023s} Ke7 3. c4 {+0.61/8 0.031s} d6
+4. Nf3 {+0.84/8 0.016s} b5 5. d4 {+1.92/8 0.027s} Kf6 6. cxb5 {+2.94/9 0.021s}
+c5 7. dxc5 {+5.43/9 0.009s} Qe8 8. b4 {+6.50/11 0.030s} dxc5
+9. Nbd2 {+6.05/10 0.016s} Nc6 10. Bb2+ {+7.98/10 0.019s} Kf5
+11. Bd3+ {+M7/10 0.007s} Kg4 12. Ne5+ {+M7/10 0.010s} Kh4
+13. Qg4# {+M1/14 0.010s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "11"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A13"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:09.856 -03"]
+[GameStartTime "2025-05-24T15:49:09.452 -03"]
+[Opening "English Opening"]
+[PlyCount "44"]
+[TimeControl "1"]
+
+1. c4 e6 {-0.06/8 0.027s} 2. e3 Nf6 {-0.07/9 0.029s} 3. h3 e5 {+0.15/9 0.026s}
+4. Qf3 d6 {+0.60/8 0.025s} 5. Ke2 d5 {+2.17/9 0.013s} 6. d3 e4 {+2.96/7 0.007s}
+7. cxd5 exf3+ {+6.60/10 0.017s} 8. Kxf3 a5 {+8.53/11 0.032s} 9. Nd2
+Qd7 {+8.48/11 0.034s} 10. Nb1 Qf5+ {+9.20/9 0.010s} 11. Ke2
+Bb4 {+8.48/11 0.023s} 12. d4 Nxd5 {+11.39/10 0.012s} 13. a4
+b6 {+11.62/13 0.027s} 14. Bd2 Bd6 {+12.44/9 0.023s} 15. Be1
+Bb7 {+14.17/7 0.004s} 16. Nd2 Qc2 {+11.53/10 0.017s} 17. Ra2 Nb4 {+M3/8 0.008s}
+18. f3 Nd3 {+12.22/10 0.018s} 19. g4 Nxb2 {+13.33/11 0.013s} 20. e4
+Nc6 {+11.48/10 0.012s} 21. Ra1 Bf4 {+15.27/9 0.007s} 22. Bg3
+Qxd2# {+M1/8 0.003s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "12"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:10.297 -03"]
+[GameStartTime "2025-05-24T15:49:09.867 -03"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "51"]
+[TimeControl "1"]
+
+1. e3 {+0.46/9 0.024s} f6 2. Nf3 {+1.01/9 0.024s} e5 3. d4 {+0.96/8 0.013s} b6
+4. Nc3 {+1.65/8 0.007s} e4 5. Nxe4 {+2.60/10 0.022s} h6
+6. Nfd2 {+4.44/11 0.035s} c6 7. Qh5+ {+4.07/9 0.015s} Ke7
+8. Bd3 {+3.26/11 0.033s} f5 9. Ng5 {+4.64/10 0.022s} d5 10. e4 {+5.51/8 0.022s}
+Kd6 11. Nf7+ {+7.84/10 0.003s} Kc7 12. Nxd8 {+6.78/10 0.016s} g5
+13. Qf7+ {+9.93/11 0.018s} Be7 14. Qg7 {+9.25/11 0.016s} Ba6
+15. Bxa6 {+11.53/11 0.021s} h5 16. Ne6+ {+13.71/10 0.004s} Kd7
+17. Be2 {+13.87/10 0.013s} a5 18. exd5 {+14.64/12 0.011s} g4
+19. Qxh8 {+15.05/12 0.027s} b5 20. Qh7 {+16.50/13 0.019s} Na6
+21. Qf7 {+15.17/9 0.012s} g3 22. fxg3 {+16.68/11 0.012s} h4
+23. Nf3 {+16.09/9 0.012s} Nb4 24. Bf4 {+19.92/8 0.004s} Na6
+25. Ng7 {+26.39/7 0.002s} Ra7 26. Qe8# {+M1/8 0.001s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "13"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:10.630 -03"]
+[GameStartTime "2025-05-24T15:49:10.308 -03"]
+[Opening "Clemenz (Mead's, Basman's or de Klerk's) Opening"]
+[PlyCount "38"]
+[TimeControl "1"]
+
+1. h3 Nf6 {+0.21/9 0.028s} 2. b3 e5 {+0.52/7 0.017s} 3. g4 Nc6 {+1.26/9 0.026s}
+4. Nc3 h6 {+1.64/8 0.011s} 5. e3 d5 {+1.16/9 0.027s} 6. g5 hxg5 {+3.23/9 0.012s}
+7. Be2 d4 {+4.48/9 0.008s} 8. Nb1 Be6 {+4.73/11 0.039s} 9. Nf3
+dxe3 {+4.57/8 0.009s} 10. Rg1 g4 {+7.68/10 0.013s} 11. d4 gxf3 {+8.88/10 0.017s}
+12. d5 exf2+ {+11.94/10 0.010s} 13. Kf1 fxg1=R+ {+17.49/11 0.007s} 14. Kxg1
+fxe2 {+18.54/12 0.019s} 15. Kf2 exd1=R {+25.57/10 0.006s} 16. Bf4
+Bxh3 {+M11/11 0.019s} 17. Na3 Bc5+ {+M9/10 0.007s} 18. Be3 Ne4+ {+M7/12 0.011s}
+19. Ke2 Bg4# {+M1/11 0.011s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "14"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:11.036 -03"]
+[GameStartTime "2025-05-24T15:49:10.641 -03"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "53"]
+[TimeControl "1"]
+
+1. e3 {+0.46/8 0.026s} Nf6 2. Be2 {+0.25/8 0.029s} d6 3. c4 {+0.13/7 0.021s} Nc6
+4. d3 {+0.32/9 0.027s} Be6 5. d4 {+0.95/8 0.029s} h6 6. d5 {+2.11/7 0.008s} Ng4
+7. dxc6 {+6.80/11 0.012s} Qd7 8. Bxg4 {+10.07/10 0.007s} Rd8
+9. cxd7+ {+10.57/10 0.010s} Bxd7 10. Be2 {+10.93/12 0.032s} c6
+11. Qb3 {+11.16/13 0.029s} Bf5 12. Nc3 {+11.57/12 0.017s} Rg8
+13. Qxb7 {+11.91/9 0.006s} a5 14. Qb6 {+12.25/11 0.019s} Rd7
+15. b3 {+14.25/12 0.024s} c5 16. e4 {+14.42/9 0.007s} g6
+17. Bf3 {+14.87/9 0.005s} Bxe4 18. Nxe4 {+14.22/12 0.013s} Rb7
+19. Qxa5 {+16.00/10 0.002s} Rb5 20. Qa8+ {+M5/11 0.008s} Rb8
+21. Qxb8+ {+M11/10 0.003s} Kd7 22. Ne2 {+M11/12 0.013s} e6
+23. Nf6+ {+M5/13 0.013s} Ke7 24. Nxg8+ {+M7/10 0.001s} Kd7
+25. Qb7+ {+M5/11 0.002s} Kd8 26. Bg5+ {+M3/11 0.001s} Ke8
+27. Qc8# {+M1/29 0.001s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "15"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:11.419 -03"]
+[GameStartTime "2025-05-24T15:49:11.046 -03"]
+[Opening "Anderssen's Opening"]
+[PlyCount "50"]
+[TimeControl "1"]
+
+1. a3 c6 {+0.06/9 0.028s} 2. Nf3 e6 {-0.04/9 0.011s} 3. g3 d6 {-0.12/10 0.029s}
+4. Rg1 Nd7 {+0.25/9 0.032s} 5. h3 Be7 {+0.56/10 0.022s} 6. Ra2
+Nb6 {+1.25/10 0.029s} 7. d3 d5 {+0.78/8 0.031s} 8. d4 Bd6 {+0.79/9 0.027s} 9. g4
+a5 {+1.17/9 0.022s} 10. e4 dxe4 {+1.76/8 0.020s} 11. Nfd2 e3 {+2.10/9 0.019s}
+12. Nc4 exf2+ {+3.52/11 0.017s} 13. Ke2 fxg1=Q {+11.28/10 0.002s} 14. h4
+Qxg4+ {+22.31/9 0.006s} 15. Kd3 Qxd1+ {+22.79/10 0.008s} 16. Ncd2
+Bf4 {+M9/11 0.012s} 17. c3 Nf6 {+M5/13 0.003s} 18. b3 e5 {+M5/10 0.003s} 19. Bg2
+Bf5+ {+M3/21 0.002s} 20. Be4 Qxd4+ {+M1/24 0.002s} 21. cxd4
+Bxe4+ {+M5/11 0.007s} 22. Kc3 Qxc1+ {+M3/10 0.007s} 23. Rc2 Na4+ {+M1/32 0.002s}
+24. bxa4 Nd5+ {+M1/10 0.003s} 25. Kb3 Qxc2# {+M1/10 0.007s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "16"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:11.893 -03"]
+[GameStartTime "2025-05-24T15:49:11.430 -03"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "69"]
+[TimeControl "1"]
+
+1. e3 {+0.46/8 0.022s} Na6 2. e4 {+0.82/9 0.028s} Nb4 3. a3 {+1.17/9 0.030s} Rb8
+4. axb4 {+5.96/9 0.010s} h6 5. Nf3 {+6.37/13 0.032s} f6 6. Nc3 {+7.72/12 0.029s}
+h5 7. b5 {+7.35/12 0.030s} e5 8. h3 {+7.21/12 0.027s} Nh6
+9. Bc4 {+7.30/10 0.015s} Qe7 10. Nh4 {+7.88/11 0.022s} Nf5
+11. Nxf5 {+9.57/12 0.015s} g5 12. Ne3 {+10.57/12 0.023s} Rh6
+13. b3 {+10.43/12 0.020s} Qa3 14. Bxa3 {+11.41/11 0.006s} c5
+15. Ncd5 {+12.78/10 0.016s} g4 16. Bb2 {+13.68/9 0.017s} Rh8
+17. Nxf6+ {+14.64/10 0.018s} Kd8 18. Ra4 {+13.73/10 0.010s} Bg7
+19. Ng8 {+13.44/10 0.008s} Rh7 20. hxg4 {+13.42/10 0.010s} Rh8
+21. gxh5 {+13.81/10 0.011s} Kc7 22. Ne7 {+15.27/8 0.004s} a6
+23. N3f5 {+16.22/9 0.006s} Rg8 24. b6+ {+19.83/9 0.005s} Kd8
+25. Nxg8 {+17.14/10 0.005s} Bf6 26. Nxf6 {+17.82/9 0.005s} d5
+27. Ne7 {+18.32/6 0s} dxe4 28. Bxe5 {+18.41/11 0.005s} Kxe7
+29. Bd3 {+17.36/7 0s} Kf7 30. Nxe4 {+18.73/6 0s} Kf8 31. Ng5 {+18.50/7 0s} Bg4
+32. Qxg4 {+21.56/5 0s} a5 33. Rh4 {+34.10/4 0s} c4 34. Qxc4 {+34.05/2 0s} Ra8
+35. Qf7# {+M1/5 0s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "17"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:11.977 -03"]
+[GameStartTime "2025-05-24T15:49:11.904 -03"]
+[Opening "Benko's Opening"]
+[PlyCount "8"]
+[TimeControl "1"]
+
+1. g3 e5 {+0.10/8 0.027s} 2. g4 Nc6 {+1.80/8 0.017s} 3. b3 d5 {+2.50/9 0.015s}
+4. f4 Qh4# {+M1/10 0.008s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "18"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:12.414 -03"]
+[GameStartTime "2025-05-24T15:49:11.988 -03"]
+[Opening "Mieses Opening"]
+[PlyCount "51"]
+[TimeControl "1"]
+
+1. d3 {+0.46/8 0.023s} e6 2. c4 {+0.11/8 0.029s} Nf6 3. e4 {-0.11/8 0.015s} c5
+4. Be2 {+0.35/6 0.009s} Bd6 5. g3 {+0.84/8 0.028s} Qb6 6. f4 {+1.08/7 0.015s}
+Nh5 7. Bxh5 {+5.47/9 0.011s} Kd8 8. Nc3 {+6.38/12 0.037s} e5
+9. Be2 {+7.71/11 0.029s} Qc6 10. a4 {+7.57/10 0.013s} h6
+11. Be3 {+7.62/11 0.020s} Kc7 12. Nb5+ {+8.06/10 0.021s} Qxb5
+13. cxb5 {+7.92/12 0.026s} Be7 14. Qb3 {+8.70/11 0.028s} Bh4
+15. Qd5 {+10.75/9 0.006s} Bd8 16. Qxc5+ {+12.60/9 0.006s} Nc6
+17. bxc6 {+11.16/10 0.014s} f5 18. Nf3 {+14.14/11 0.019s} b6
+19. Qxe5+ {+13.81/8 0.005s} Kxc6 20. Qxf5 {+17.09/10 0.009s} Kd6
+21. Qe5+ {+17.92/10 0.007s} Kc6 22. Qh5 {+19.19/11 0.012s} Re8
+23. Qxe8 {+14.90/13 0.008s} Ba6 24. Qf7 {+17.91/10 0.007s} Bb7
+25. Rc1+ {+M3/8 0.003s} Kd6 26. e5# {+M1/10 0.003s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "19"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:12.765 -03"]
+[GameStartTime "2025-05-24T15:49:12.425 -03"]
+[Opening "Anderssen's Opening"]
+[PlyCount "40"]
+[TimeControl "1"]
+
+1. a3 c6 {+0.06/9 0.027s} 2. a4 Nf6 {+0.51/7 0.011s} 3. b4 e5 {+1.04/8 0.012s}
+4. g3 Bxb4 {+1.83/8 0.016s} 5. Ra3 O-O {+3.83/8 0.016s} 6. Rd3
+d5 {+3.60/9 0.026s} 7. Rb3 c5 {+3.64/10 0.037s} 8. e3 Bg4 {+3.79/8 0.019s}
+9. Ba6 Bxd1 {+8.79/8 0.013s} 10. f4 Bxc2 {+10.30/8 0.018s} 11. Bxb7
+e4 {+10.29/9 0.033s} 12. g4 Bxb3 {+12.57/9 0.015s} 13. Bxd5
+Nxd5 {+14.53/10 0.008s} 14. Nc3 Nxe3 {+14.93/12 0.028s} 15. d3
+Qh4+ {+17.78/10 0.016s} 16. Kd2 Qf2+ {+M7/12 0.007s} 17. Ne2
+Nxg4 {+M3/14 0.002s} 18. Rd1 Qe3+ {+M1/10 0.003s} 19. Ke1 Bxc3+ {+M3/14 0.007s}
+20. Rd2 Qf2# {+M1/35 0.002s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "20"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:13.078 -03"]
+[GameStartTime "2025-05-24T15:49:12.775 -03"]
+[Opening "King's pawn"]
+[PlyCount "27"]
+[TimeControl "1"]
+[Variation "Nimzowitsch defense"]
+
+1. e4 {+0.46/8 0.025s} Nc6 2. d3 {+0.88/8 0.027s} Na5 3. c3 {+1.21/10 0.030s} e5
+4. Nf3 {+0.91/8 0.031s} Nc4 5. dxc4 {+5.30/8 0.008s} Ba3
+6. bxa3 {+8.64/8 0.006s} Qf6 7. c5 {+7.79/12 0.032s} d5
+8. Qxd5 {+8.11/11 0.034s} g5 9. a4 {+9.61/8 0.006s} h5
+10. Bb5+ {+9.75/10 0.009s} Kf8 11. Bxg5 {+7.91/10 0.032s} Qd8
+12. Bxd8 {+13.62/10 0.012s} Bh3 13. Nxe5 {+14.49/9 0.024s} Bc8
+14. Qxf7# {+M1/9 0.004s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "21"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A03"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:13.354 -03"]
+[GameStartTime "2025-05-24T15:49:13.092 -03"]
+[Opening "Bird's Opening"]
+[PlyCount "22"]
+[TimeControl "1"]
+
+1. f4 d5 {+0.31/8 0.034s} 2. a4 g6 {+0.52/8 0.029s} 3. Ra3 e6 {+1.23/9 0.031s}
+4. Rf3 Nh6 {+1.40/8 0.029s} 5. c4 dxc4 {+1.96/8 0.030s} 6. Rh3
+e5 {+2.75/7 0.007s} 7. g4 Nxg4 {+4.36/11 0.024s} 8. Ra3 Nc6 {+8.50/9 0.010s}
+9. Bh3 Bc5 {+7.23/10 0.017s} 10. Ra2 Qh4+ {+M3/10 0.005s} 11. Kf1
+Qf2# {+M1/10 0.013s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "22"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:13.737 -03"]
+[GameStartTime "2025-05-24T15:49:13.365 -03"]
+[Opening "King's pawn Opening"]
+[PlyCount "45"]
+[TimeControl "1"]
+
+1. e4 {+0.46/8 0.026s} h5 2. Nf3 {+1.17/10 0.030s} Nc6 3. d4 {+1.43/10 0.017s}
+f5 4. Bc4 {+3.33/9 0.020s} h4 5. exf5 {+2.85/10 0.026s} Nh6
+6. Bd3 {+4.32/9 0.010s} d6 7. Nxh4 {+3.50/9 0.027s} Rb8 8. d5 {+4.90/10 0.032s}
+Nf7 9. Ng6 {+5.82/10 0.014s} Rh3 10. dxc6 {+7.50/11 0.017s} a6
+11. f3 {+7.77/10 0.019s} e5 12. Qe2 {+7.16/11 0.026s} Rh8
+13. Nd2 {+7.57/9 0.011s} Ng5 14. f4 {+8.52/9 0.010s} d5
+15. fxg5 {+10.16/10 0.017s} Rh4 16. Qxe5+ {+11.53/9 0.008s} Be7
+17. Nxh4 {+13.53/12 0.017s} Be6 18. Qxe6 {+15.55/9 0.007s} Ra8
+19. cxb7 {+19.64/11 0.006s} Kf8 20. Ng6+ {+M5/10 0.002s} Ke8
+21. bxa8=R {+M3/10 0.001s} Qc8 22. Bb5+ {+M1/15 0.001s} Kd8
+23. Qd7# {+M1/25 0.001s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "23"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:14.026 -03"]
+[GameStartTime "2025-05-24T15:49:13.748 -03"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "24"]
+[TimeControl "1"]
+
+1. e3 c5 {-0.06/9 0.028s} 2. h4 e6 {+0.44/9 0.030s} 3. b3 Be7 {+0.50/9 0.027s}
+4. Ba6 Nxa6 {+5.88/7 0.010s} 5. Ke2 d6 {+6.42/11 0.034s} 6. Rh3
+Bf6 {+7.06/9 0.014s} 7. e4 d5 {+6.81/10 0.032s} 8. Kf3 Bd4 {+7.75/9 0.012s}
+9. e5 Bxe5 {+7.77/13 0.031s} 10. d3 Nb4 {+7.96/10 0.021s} 11. a4
+Qf6+ {+8.22/9 0.019s} 12. Kg4 h5# {+M1/8 0.004s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "24"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:14.337 -03"]
+[GameStartTime "2025-05-24T15:49:14.037 -03"]
+[Opening "Queen's pawn"]
+[PlyCount "29"]
+[TimeControl "1"]
+
+1. d4 {+0.46/8 0.023s} h6 2. c4 {+0.88/8 0.008s} h5 3. d5 {+1.34/9 0.032s} e6
+4. e4 {+1.03/10 0.032s} Qh4 5. Nc3 {+1.80/7 0.008s} Qd8 6. e5 {+1.72/11 0.037s}
+Bd6 7. exd6 {+7.06/7 0.011s} Rh6 8. Be2 {+8.50/10 0.035s} Rh8
+9. dxc7 {+8.21/11 0.023s} a5 10. cxd8=N {+12.38/11 0.021s} Rh7
+11. Nxf7 {+14.17/12 0.025s} b5 12. dxe6 {+16.32/9 0.007s} Na6
+13. Nxb5 {+19.19/10 0.013s} dxe6 14. Bxh5 {+M5/11 0.006s} Rb8
+15. Qd8# {+M1/10 0.002s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "25"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:14.675 -03"]
+[GameStartTime "2025-05-24T15:49:14.348 -03"]
+[Opening "Grob's attack"]
+[PlyCount "36"]
+[TimeControl "1"]
+
+1. g4 h5 {+1.11/9 0.028s} 2. Bg2 hxg4 {+1.49/8 0.007s} 3. Bh3
+gxh3 {+6.82/9 0.007s} 4. a3 Nh6 {+6.94/12 0.035s} 5. Nc3 Nc6 {+6.34/11 0.032s}
+6. d3 g6 {+6.66/10 0.013s} 7. Ne4 f6 {+7.42/13 0.037s} 8. b3
+d5 {+7.16/10 0.010s} 9. d4 Bf5 {+7.33/12 0.034s} 10. Nc3 Ng4 {+7.02/12 0.029s}
+11. Ne4 dxe4 {+7.63/10 0.011s} 12. c3 e6 {+9.59/11 0.027s} 13. Qd2
+Na5 {+10.33/10 0.010s} 14. Qe3 Nxe3 {+10.71/10 0.012s} 15. d5
+Nc2+ {+15.86/11 0.007s} 16. Kd2 e3+ {+M5/10 0.003s} 17. Kd1
+Qxd5+ {+M3/13 0.006s} 18. Bd2 Qxd2# {+M1/13 0.002s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "26"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:15.040 -03"]
+[GameStartTime "2025-05-24T15:49:14.685 -03"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "39"]
+[TimeControl "1"]
+
+1. e3 {+0.46/9 0.025s} g6 2. e4 {+0.35/8 0.019s} c6 3. Be2 {+0.52/9 0.030s} Na6
+4. Nf3 {+0.97/7 0.011s} Qc7 5. O-O {+1.04/10 0.020s} Bh6
+6. Bxa6 {+1.55/11 0.025s} Qa5 7. Be2 {+6.01/10 0.006s} f5
+8. b4 {+6.64/12 0.031s} Qa6 9. d4 {+7.71/10 0.007s} d5
+10. Bxa6 {+7.71/13 0.027s} Bd7 11. Bxb7 {+9.43/9 0.005s} Be3
+12. Bxa8 {+12.16/13 0.016s} Bd2 13. Nfxd2 {+14.58/10 0.010s} e6
+14. Bxc6 {+15.06/10 0.009s} dxe4 15. Bb7 {+15.37/10 0.011s} Kd8
+16. Nxe4 {+15.48/12 0.036s} Kc7 17. Nc5 {+16.32/10 0.009s} Kb6
+18. Qe2 {+19.91/12 0.021s} e5 19. Bg5 {+M13/14 0.017s} h6
+20. Bd8# {+M1/10 0.002s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "27"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:15.195 -03"]
+[GameStartTime "2025-05-24T15:49:15.050 -03"]
+[Opening "Ware (Meadow Hay) Opening"]
+[PlyCount "18"]
+[TimeControl "1"]
+
+1. a4 d5 {+0.34/8 0.029s} 2. g4 d4 {+2.21/8 0.013s} 3. h3 h5 {+1.43/9 0.026s}
+4. Na3 hxg4 {+2.29/9 0.020s} 5. f3 Nc6 {+3.62/9 0.011s} 6. b4
+e6 {+5.18/9 0.007s} 7. Rh2 Bd6 {+6.25/10 0.013s} 8. Rb1 Bxh2 {+8.82/10 0.006s}
+9. Nc4 Qh4# {+M1/10 0.011s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "28"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "C00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:15.488 -03"]
+[GameStartTime "2025-05-24T15:49:15.205 -03"]
+[Opening "French defense"]
+[PlyCount "31"]
+[TimeControl "1"]
+
+1. e4 {+0.46/8 0.024s} e6 2. Nc3 {+0.60/8 0.017s} g5 3. Qh5 {+1.95/8 0.014s} h6
+4. Be2 {+1.31/9 0.031s} e5 5. Bc4 {+1.45/7 0.010s} Qe7 6. Qe2 {+2.54/10 0.023s}
+Nc6 7. a3 {+1.21/8 0.012s} Nd4 8. Qd3 {+0.10/11 0.025s} Qf6
+9. Nge2 {+1.05/8 0.011s} Qf5 10. exf5 {+7.56/9 0.007s} Bc5
+11. Ne4 {+8.95/12 0.038s} b5 12. Nxc5 {+9.84/9 0.006s} Nxe2
+13. Qxe2 {+10.68/11 0.015s} Ba6 14. Qxe5+ {+13.24/10 0.005s} Kd8
+15. Bxf7 {+15.60/12 0.023s} Rh7 16. Qe8# {+M1/10 0.008s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "29"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:15.903 -03"]
+[GameStartTime "2025-05-24T15:49:15.499 -03"]
+[Opening "Saragossa Opening"]
+[PlyCount "50"]
+[TimeControl "1"]
+
+1. c3 Nf6 {+0.16/9 0.028s} 2. f4 d5 {+0.24/10 0.030s} 3. g4 h6 {+2.25/8 0.011s}
+4. d3 Nxg4 {+1.92/9 0.031s} 5. Kd2 e5 {+4.70/9 0.014s} 6. Qc2
+Bc5 {+5.39/9 0.018s} 7. Nf3 Be3+ {+5.02/10 0.015s} 8. Kd1 Nf2+ {+5.65/9 0.018s}
+9. Ke1 d4 {+3.75/11 0.035s} 10. Bxe3 dxe3 {+1.42/10 0.021s} 11. h3
+Nxh1 {+6.22/10 0.006s} 12. Na3 O-O {+6.65/11 0.021s} 13. Nc4
+exf4 {+7.37/9 0.005s} 14. Nce5 Be6 {+7.96/11 0.029s} 15. Nd2
+Nf2 {+8.88/10 0.022s} 16. Nc6 exd2+ {+10.16/10 0.013s} 17. Kxd2
+Nxc6 {+10.96/10 0.007s} 18. Qb3 f3 {+11.44/12 0.017s} 19. Qb4
+Bf5 {+12.85/7 0.003s} 20. Qa5 Nxa5 {+13.44/10 0.002s} 21. e3
+Bxd3 {+15.86/11 0.019s} 22. h4 Re8 {+M13/11 0.006s} 23. Be2 fxe2 {+M5/10 0.008s}
+24. Rf1 Nc4+ {+M3/10 0.001s} 25. Ke1 exf1=Q# {+M1/10 0.001s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "30"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:16.173 -03"]
+[GameStartTime "2025-05-24T15:49:15.914 -03"]
+[Opening "Queen's pawn"]
+[PlyCount "25"]
+[TimeControl "1"]
+
+1. d4 {+0.46/8 0.023s} f6 2. e4 {+1.38/8 0.028s} Kf7 3. h3 {+2.13/9 0.030s} h5
+4. h4 {+2.23/9 0.024s} a5 5. d5 {+1.95/10 0.030s} Na6 6. Nh3 {+2.13/9 0.028s}
+Rh7 7. Bc4 {+3.06/10 0.015s} Rb8 8. d6+ {+3.30/8 0.017s} Ke8
+9. Bxg8 {+5.90/9 0.010s} b6 10. e5 {+11.25/10 0.006s} e6
+11. Bxh7 {+9.73/10 0.014s} Nc5 12. Qxh5+ {+M1/10 0.005s} g6
+13. Bxg6# {+M1/12 0.011s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "31"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:16.529 -03"]
+[GameStartTime "2025-05-24T15:49:16.183 -03"]
+[Opening "Saragossa Opening"]
+[PlyCount "36"]
+[TimeControl "1"]
+
+1. c3 d5 {+0.24/9 0.028s} 2. Nh3 Bxh3 {+0.63/7 0.013s} 3. f4
+Bd7 {+5.67/12 0.033s} 4. a3 Bc8 {+6.03/11 0.021s} 5. g3 c6 {+5.57/12 0.033s}
+6. Kf2 Nf6 {+6.39/10 0.030s} 7. Ke1 Bf5 {+6.35/12 0.027s} 8. e3
+h6 {+6.50/12 0.028s} 9. Bg2 h5 {+6.64/12 0.028s} 10. Ra2 e6 {+8.86/9 0.006s}
+11. Qg4 Nxg4 {+11.64/8 0.005s} 12. Bf3 Qd6 {+11.48/11 0.028s} 13. b3
+Nd7 {+11.44/11 0.021s} 14. c4 Nc5 {+12.20/11 0.013s} 15. Kd1
+dxc4 {+14.49/8 0.004s} 16. Bd5 Qxd5 {+22.29/10 0.003s} 17. Rc2
+Qxh1+ {+M3/9 0.005s} 18. Ke2 Bd3# {+M1/10 0.001s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "32"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:16.875 -03"]
+[GameStartTime "2025-05-24T15:49:16.539 -03"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "41"]
+[TimeControl "1"]
+
+1. e4 {+0.46/8 0.023s} a6 2. Ne2 {+0.83/8 0.025s} g5 3. d3 {+1.66/8 0.010s} Ra7
+4. Nbc3 {+2.61/8 0.014s} Nc6 5. Be3 {+3.02/9 0.023s} Nd4
+6. Nxd4 {+7.08/11 0.016s} Nh6 7. Be2 {+7.09/12 0.038s} Rg8
+8. Qd2 {+7.13/12 0.031s} d5 9. Nxd5 {+7.07/13 0.034s} b5
+10. Nc6 {+8.22/10 0.006s} Bd7 11. Nxd8 {+11.01/10 0.006s} Bf5
+12. Qc3 {+13.90/13 0.031s} Bd7 13. Bxa7 {+14.03/10 0.011s} Be6
+14. Qc5 {+17.27/11 0.011s} Bf5 15. Qc6+ {+M13/10 0.011s} Kxd8
+16. Qxc7+ {+M7/11 0.003s} Ke8 17. Qc6+ {+M5/14 0.007s} Kd8
+18. Qc7+ {+M1/20 0.002s} Ke8 19. Qc6+ {+M5/13 0.007s} Kd8
+20. Bc5 {+M1/14 0.002s} Rh8 21. Bb6# {+M1/18 0.002s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "33"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:17.168 -03"]
+[GameStartTime "2025-05-24T15:49:16.888 -03"]
+[Opening "Benko's Opening"]
+[PlyCount "32"]
+[TimeControl "1"]
+
+1. g3 d5 {+0.10/8 0.028s} 2. c3 c6 {+0.42/6 0.012s} 3. e4 e5 {+1.36/7 0.010s}
+4. Qe2 dxe4 {+0.74/10 0.033s} 5. Qxe4 Be6 {+0.75/8 0.010s} 6. Bg2
+Nd7 {+1.04/9 0.007s} 7. h3 Bd5 {+6.24/9 0.018s} 8. Rh2 Bxe4 {+7.35/9 0.022s}
+9. Na3 a6 {+8.84/12 0.033s} 10. Rh1 Bxg2 {+11.16/8 0.007s} 11. Nb5
+Nc5 {+14.21/11 0.019s} 12. Nf3 Nd3+ {+14.63/10 0.009s} 13. Ke2
+Rb8 {+13.92/12 0.028s} 14. Na3 Qd5 {+14.67/9 0.011s} 15. Ng1
+Qe4+ {+M3/10 0.004s} 16. Kd1 Nxf2# {+M1/10 0.010s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "34"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:17.550 -03"]
+[GameStartTime "2025-05-24T15:49:17.179 -03"]
+[Opening "King's pawn Opening"]
+[PlyCount "35"]
+[TimeControl "1"]
+
+1. e4 {+0.46/8 0.026s} Nh6 2. a3 {+1.09/9 0.031s} Na6 3. Nc3 {+1.79/9 0.030s} d6
+4. d4 {+1.50/10 0.026s} e5 5. dxe5 {+2.28/10 0.030s} Nb8 6. Nf3 {+3.26/8 0.006s}
+Nf5 7. exf5 {+6.47/8 0.012s} c6 8. e6 {+6.97/10 0.018s} a5
+9. Bg5 {+7.92/9 0.013s} a4 10. exf7+ {+10.48/9 0.005s} Kxf7
+11. Bxd8 {+10.29/10 0.030s} g6 12. Qd4 {+14.58/11 0.019s} d5
+13. Qxh8 {+17.59/9 0.012s} b5 14. g4 {+22.07/13 0.030s} Be6
+15. b3 {+18.94/11 0.024s} Nd7 16. fxe6+ {+17.50/10 0.024s} Ke8
+17. Qxh7 {+17.73/10 0.013s} g5 18. Qxd7# {+M1/10 0.001s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "35"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "C00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:17.853 -03"]
+[GameStartTime "2025-05-24T15:49:17.561 -03"]
+[Opening "French defense"]
+[PlyCount "32"]
+[TimeControl "1"]
+
+1. e4 e6 {-0.33/8 0.027s} 2. a4 c5 {+0.03/8 0.018s} 3. c4 Ne7 {+0.32/7 0.010s}
+4. f4 d6 {+0.41/8 0.016s} 5. a5 Nec6 {+0.59/8 0.027s} 6. e5
+dxe5 {+3.24/8 0.012s} 7. b3 a6 {+4.30/9 0.015s} 8. Qc2 g6 {+4.70/11 0.025s}
+9. Qf5 exf5 {+8.97/9 0.009s} 10. fxe5 Nb4 {+9.51/12 0.035s} 11. Kd1
+Nd3 {+9.57/11 0.037s} 12. g4 fxg4 {+10.77/10 0.007s} 13. Nf3
+Nc6 {+12.88/12 0.020s} 14. Kc2 gxf3 {+14.17/10 0.004s} 15. e6
+Ncb4+ {+16.80/10 0.008s} 16. Kc3 Qd4# {+M1/38 0.001s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "36"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:18.248 -03"]
+[GameStartTime "2025-05-24T15:49:17.864 -03"]
+[Opening "Mieses Opening"]
+[PlyCount "41"]
+[TimeControl "1"]
+
+1. d3 {+0.46/8 0.023s} d5 2. e3 {-0.02/9 0.028s} Bg4 3. Qxg4 {+5.53/7 0.013s} e6
+4. Qa4+ {+5.26/11 0.031s} c6 5. c4 {+5.26/12 0.033s} a5 6. Qc2 {+5.41/12 0.029s}
+a4 7. Bd2 {+5.60/12 0.031s} g6 8. g3 {+5.89/11 0.019s} Qe7
+9. d4 {+6.28/12 0.027s} Qc7 10. Ne2 {+6.61/11 0.024s} Nh6
+11. e4 {+7.28/12 0.020s} a3 12. cxd5 {+6.14/11 0.020s} Ng8
+13. b4 {+7.63/9 0.009s} h5 14. d6 {+7.27/8 0.005s} Ne7
+15. dxc7 {+10.47/8 0.003s} Ra4 16. cxb8=Q+ {+24.98/9 0.003s} Nc8
+17. Qxc8+ {+31.04/10 0.004s} Ke7 18. Bg5+ {+M7/12 0.026s} f6
+19. Qxb7+ {+M5/12 0.003s} Ke8 20. Qcxc6+ {+M3/10 0.006s} Kd8
+21. Qbd7# {+M1/25 0.002s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "37"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:18.329 -03"]
+[GameStartTime "2025-05-24T15:49:18.259 -03"]
+[Opening "Gedult's Opening"]
+[PlyCount "6"]
+[TimeControl "1"]
+
+1. f3 e5 {+0.80/10 0.026s} 2. h3 Qh4+ {+M3/8 0.016s} 3. g3
+Qxg3# {+M1/9 0.021s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "38"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:18.758 -03"]
+[GameStartTime "2025-05-24T15:49:18.340 -03"]
+[Opening "Reversed Grob (Borg/Basman defense/macho Grob)"]
+[PlyCount "53"]
+[TimeControl "1"]
+
+1. e4 {+0.46/8 0.025s} g5 2. Nc3 {+1.93/8 0.027s} Nh6 3. d4 {+2.71/9 0.019s} Nf5
+4. Nf3 {+6.47/8 0.009s} b5 5. exf5 {+6.32/9 0.010s} Bg7
+6. Nxg5 {+6.89/10 0.026s} a6 7. Bd3 {+7.42/10 0.023s} Kf8
+8. Be4 {+7.53/10 0.028s} Kg8 9. a4 {+8.11/10 0.017s} f6
+10. Nf3 {+8.30/10 0.018s} Bf8 11. Ne2 {+8.75/9 0.010s} h6
+12. Bxa8 {+9.02/9 0.010s} bxa4 13. Qd3 {+9.39/11 0.033s} c6
+14. Nd2 {+9.16/10 0.028s} Rh7 15. Ne4 {+9.34/9 0.019s} h5
+16. Ra3 {+9.03/9 0.014s} Bb7 17. Bxb7 {+12.44/8 0.004s} d6
+18. Rxa4 {+12.07/11 0.025s} h4 19. h3 {+12.03/10 0.012s} Rh5
+20. Qf3 {+12.67/10 0.016s} c5 21. Bd5+ {+20.92/9 0.003s} e6
+22. Bxe6+ {+M9/10 0.006s} Kh8 23. Qxh5+ {+M3/10 0.004s} Kg7
+24. Qg4+ {+M1/19 0.001s} Kh7 25. Qxh4+ {+M1/28 0.001s} Kg7
+26. Bh6+ {+M1/29 0.001s} Kh8 27. Bxf8# {+M1/25 0.001s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "39"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:19.012 -03"]
+[GameStartTime "2025-05-24T15:49:18.768 -03"]
+[Opening "Grob's attack"]
+[PlyCount "26"]
+[TimeControl "1"]
+
+1. g4 Nf6 {+1.11/9 0.026s} 2. b3 e5 {+1.65/8 0.019s} 3. c3 Nxg4 {+2.26/8 0.016s}
+4. Qc2 d5 {+3.21/10 0.031s} 5. c4 d4 {+4.00/9 0.021s} 6. a3
+Nc6 {+4.55/10 0.037s} 7. h3 Qh4 {+4.55/10 0.014s} 8. Qc3 dxc3 {+11.11/10 0.009s}
+9. Bg2 Qxf2+ {+13.82/12 0.016s} 10. Kd1 Qxg2 {+15.40/12 0.019s} 11. c5
+Nd4 {+M9/11 0.009s} 12. b4 Ne3+ {+M1/38 0.003s} 13. dxe3
+Qf1# {+M1/11 0.010s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "40"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:19.346 -03"]
+[GameStartTime "2025-05-24T15:49:19.024 -03"]
+[Opening "Reversed Grob (Borg/Basman defense/macho Grob)"]
+[PlyCount "33"]
+[TimeControl "1"]
+
+1. e4 {+0.46/8 0.025s} g5 2. h4 {+1.87/9 0.029s} d6 3. hxg5 {+2.53/8 0.015s} d5
+4. exd5 {+2.87/8 0.032s} e6 5. d4 {+3.01/8 0.027s} f6 6. Be2 {+5.05/9 0.010s}
+exd5 7. Nc3 {+4.30/10 0.023s} fxg5 8. Bb5+ {+5.33/11 0.023s} Nd7
+9. Qh5+ {+6.60/8 0.012s} Ke7 10. Nxd5+ {+6.36/9 0.022s} Kd6
+11. Nc3 {+6.91/10 0.024s} Ke6 12. Bc4+ {+7.81/10 0.025s} Kf6
+13. Bxg5+ {+M1/14 0.001s} Kf5 14. Bd2+ {+M1/17 0.002s} Kf6
+15. Ne4+ {+M1/30 0.002s} Kg7 16. Bh6+ {+M1/15 0.002s} Nxh6
+17. Qxh6# {+M1/11 0.011s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "41"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:19.396 -03"]
+[GameStartTime "2025-05-24T15:49:19.356 -03"]
+[Opening "Grob's attack"]
+[PlyCount "4"]
+[TimeControl "1"]
+
+1. g4 e5 {+1.11/9 0.028s} 2. f3 Qh4# {+M1/9 0.007s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "42"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:19.817 -03"]
+[GameStartTime "2025-05-24T15:49:19.407 -03"]
+[Opening "Mieses Opening"]
+[PlyCount "43"]
+[TimeControl "1"]
+
+1. d3 {+0.46/8 0.023s} g6 2. Nf3 {+0.13/10 0.028s} e6 3. h4 {+0.42/7 0.020s} Ne7
+4. d4 {+0.74/8 0.016s} Nd5 5. g3 {+2.01/9 0.027s} Nb6 6. Nc3 {+1.66/8 0.012s}
+Bd6 7. h5 {+2.95/9 0.008s} Bf8 8. hxg6 {+2.84/9 0.020s} Qe7
+9. Rxh7 {+4.58/10 0.015s} Nc4 10. Rxh8 {+7.87/9 0.009s} Na3
+11. Rh2 {+11.71/10 0.014s} d6 12. e4 {+9.43/12 0.037s} Na6
+13. gxf7+ {+9.93/10 0.018s} Kxf7 14. bxa3 {+10.43/11 0.029s} Nb4
+15. Rh4 {+12.24/11 0.030s} Rb8 16. Bh3 {+12.60/9 0.014s} Bd7
+17. d5 {+12.03/11 0.024s} b6 18. Nd4 {+14.40/11 0.016s} Qxh4
+19. Bxe6+ {+11.21/10 0.011s} Ke7 20. gxh4 {+10.78/11 0.007s} c5
+21. Bg5+ {+M3/8 0.002s} Ke8 22. Qh5# {+M1/10 0.005s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "43"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:20.161 -03"]
+[GameStartTime "2025-05-24T15:49:19.828 -03"]
+[Opening "Saragossa Opening"]
+[PlyCount "30"]
+[TimeControl "1"]
+
+1. c3 Nf6 {+0.24/9 0.030s} 2. a4 d6 {+0.49/10 0.022s} 3. e4
+Nxe4 {+0.71/9 0.024s} 4. Qh5 g6 {+1.99/10 0.034s} 5. Qxh7 Rxh7 {+7.70/10 0.011s}
+6. Na3 Nc5 {+8.18/10 0.030s} 7. g3 Nbd7 {+8.84/11 0.032s} 8. Nb1
+Rh5 {+10.15/9 0.011s} 9. f4 e5 {+9.71/12 0.030s} 10. c4 Nb6 {+10.69/11 0.030s}
+11. Bg2 Nd3+ {+12.60/11 0.017s} 12. Kf1 exf4 {+11.53/10 0.015s} 13. Ne2
+fxg3 {+15.54/15 0.022s} 14. c5 Qf6+ {+23.88/10 0.004s} 15. Kg1
+Qf2# {+M1/10 0.003s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "44"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:20.472 -03"]
+[GameStartTime "2025-05-24T15:49:20.172 -03"]
+[Opening "Mieses Opening"]
+[PlyCount "45"]
+[TimeControl "1"]
+
+1. d3 {+0.46/8 0.024s} b5 2. e4 {+0.43/8 0.022s} e6 3. a4 {+0.45/8 0.029s} a5
+4. axb5 {+1.56/7 0.009s} g6 5. d4 {+2.52/9 0.013s} Nh6 6. Bd3 {+3.14/11 0.024s}
+f5 7. Nf3 {+3.14/8 0.011s} Ra6 8. bxa6 {+7.46/10 0.006s} Nf7
+9. a7 {+8.16/12 0.024s} Na6 10. a8=Q {+10.79/10 0.011s} Ba3
+11. Rxa3 {+13.99/11 0.016s} Nh6 12. Bxh6 {+18.82/11 0.008s} e5
+13. Rxa5 {+21.92/11 0.007s} d5 14. Rxd5 {+23.31/9 0.006s} Nc5
+15. dxc5 {+31.04/11 0.021s} g5 16. Bxg5 {+M11/11 0.013s} Rg8
+17. Rxd8+ {+M9/11 0.011s} Kf7 18. Bc4+ {+M5/19 0.007s} Kg7
+19. Qd7+ {+M1/18 0.002s} Bxd7 20. Rxd7+ {+M1/12 0.004s} Kg6
+21. Qa6+ {+M3/21 0.003s} Kh5 22. Qh6+ {+M3/25 0.003s} Kg4
+23. Nxe5# {+M1/72 0.003s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "45"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A13"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:20.839 -03"]
+[GameStartTime "2025-05-24T15:49:20.482 -03"]
+[Opening "English Opening"]
+[PlyCount "36"]
+[TimeControl "1"]
+
+1. c4 e6 {-0.06/9 0.030s} 2. f4 d5 {+0.52/9 0.031s} 3. d3 dxc4 {+0.90/8 0.016s}
+4. f5 Bb4+ {+3.49/9 0.021s} 5. Nc3 exf5 {+2.97/10 0.027s} 6. Nf3
+Bxc3+ {+3.35/10 0.014s} 7. Nd2 Bf6 {+7.26/12 0.033s} 8. dxc4
+Nc6 {+7.43/12 0.028s} 9. Qb3 g6 {+7.93/10 0.013s} 10. Nb1 Bg7 {+7.36/11 0.029s}
+11. a4 a6 {+8.00/12 0.030s} 12. c5 h5 {+8.00/10 0.022s} 13. Qd5
+Qxd5 {+11.07/8 0.005s} 14. Ra3 Qxc5 {+12.67/9 0.011s} 15. b4
+Qxc1+ {+14.64/9 0.003s} 16. Kf2 g5 {+15.22/11 0.019s} 17. Ra1
+Bd4+ {+M3/9 0.003s} 18. e3 Qxe3# {+M1/10 0.004s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "46"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:21.203 -03"]
+[GameStartTime "2025-05-24T15:49:20.850 -03"]
+[Opening "Queen's pawn"]
+[PlyCount "37"]
+[TimeControl "1"]
+[Variation "English defense"]
+
+1. d4 {+0.46/8 0.023s} b6 2. Nf3 {+0.97/8 0.023s} Bb7 3. Nbd2 {+0.41/9 0.031s}
+Nc6 4. c3 {+1.13/8 0.017s} Nb8 5. g3 {+1.52/9 0.017s} Bxf3
+6. exf3 {+1.69/10 0.019s} g6 7. d5 {+1.50/8 0.024s} Nh6 8. h4 {+2.60/9 0.011s}
+Nf5 9. Bg2 {+2.72/10 0.035s} c5 10. Nc4 {+2.95/8 0.007s} g5
+11. a4 {+5.17/12 0.025s} Qc8 12. hxg5 {+5.42/10 0.011s} h5
+13. Qd3 {+6.12/9 0.010s} Qa6 14. Qe2 {+5.66/11 0.029s} Qb5
+15. axb5 {+9.43/10 0.004s} f6 16. Bh3 {+12.30/10 0.005s} Rh6
+17. gxh6 {+13.31/12 0.017s} Na6 18. Bxf5 {+14.20/13 0.025s} Rd8
+19. Bg6# {+M1/10 0.003s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "47"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:21.955 -03"]
+[GameStartTime "2025-05-24T15:49:21.590 -03"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "42"]
+[TimeControl "1"]
+
+1. e3 e5 {-0.06/8 0.033s} 2. h3 e4 {+0.52/8 0.023s} 3. g3 Nf6 {+0.34/8 0.026s}
+4. Ba6 Nxa6 {+6.72/8 0.010s} 5. Ne2 h5 {+6.30/11 0.035s} 6. c4
+b6 {+6.94/12 0.023s} 7. f4 Nb4 {+7.53/12 0.030s} 8. Rh2 Nd3+ {+8.14/8 0.006s}
+9. Kf1 h4 {+7.70/9 0.024s} 10. Rg2 Ba6 {+7.95/10 0.028s} 11. Nd4
+c6 {+8.33/9 0.009s} 12. Qb3 Nh5 {+8.58/9 0.013s} 13. f5 d5 {+8.58/8 0.012s}
+14. Kg1 dxc4 {+7.86/11 0.028s} 15. Qa4 Bb7 {+7.12/11 0.014s} 16. Qb4
+Bxb4 {+10.84/9 0.007s} 17. Nxc6 Bxc6 {+12.85/9 0.006s} 18. gxh4
+Qxh4 {+18.18/10 0.005s} 19. Rg6 Nhf4 {+M5/15 0.003s} 20. Rg2
+Qe1+ {+M3/10 0.001s} 21. Kh2 Rxh3# {+M1/10 0.002s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "48"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:22.204 -03"]
+[GameStartTime "2025-05-24T15:49:21.966 -03"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "21"]
+[TimeControl "1"]
+
+1. e4 {+0.46/8 0.025s} a6 2. d4 {+0.72/9 0.018s} c5 3. dxc5 {+1.17/8 0.022s} g6
+4. Be3 {+1.85/9 0.031s} d5 5. cxd6 {+2.35/9 0.021s} Qxd6
+6. Qxd6 {+5.71/8 0.010s} e6 7. Qc7 {+8.93/12 0.029s} a5
+8. Qxc8+ {+15.83/9 0.007s} Ke7 9. Bg5+ {+18.64/12 0.033s} Nf6
+10. e5 {+14.90/13 0.029s} Na6 11. Bxf6# {+M1/10 0.003s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "49"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:22.651 -03"]
+[GameStartTime "2025-05-24T15:49:22.215 -03"]
+[Opening "Mieses Opening"]
+[PlyCount "54"]
+[TimeControl "1"]
+
+1. d3 e6 {+0.20/8 0.028s} 2. a3 d5 {+0.03/8 0.009s} 3. Bd2 e5 {+0.41/8 0.029s}
+4. e3 h6 {+0.47/9 0.032s} 5. Bb4 Ne7 {+1.12/8 0.007s} 6. Bc5
+Na6 {+1.13/8 0.025s} 7. Qc1 Nxc5 {+6.04/8 0.010s} 8. b4 Ne6 {+6.39/11 0.024s}
+9. Ke2 d4 {+7.52/8 0.008s} 10. Qd1 Nd5 {+7.52/10 0.024s} 11. Ra2
+g6 {+8.01/9 0.010s} 12. exd4 Nxd4+ {+7.39/12 0.033s} 13. Ke1
+Nxb4 {+7.49/11 0.029s} 14. a4 Be6 {+9.38/11 0.029s} 15. h4 h5 {+9.38/8 0.006s}
+16. Qd2 Bxa2 {+9.29/7 0.003s} 17. Nh3 Ndxc2+ {+13.12/10 0.010s} 18. Kd1
+Bxb1 {+12.49/10 0.012s} 19. Qe2 Qd6 {+14.63/10 0.014s} 20. Nf4
+O-O-O {+16.82/11 0.013s} 21. Qf3 exf4 {+19.64/12 0.019s} 22. Be2
+Bh6 {+24.47/12 0.012s} 23. Qc6 Qxc6 {+20.72/11 0.011s} 24. Rh3
+Rhe8 {+M11/10 0.006s} 25. a5 Na3 {+M13/8 0.003s} 26. a6 Qc2+ {+M3/7 0.002s}
+27. Ke1 Qc1# {+M1/10 0s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "50"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:22.937 -03"]
+[GameStartTime "2025-05-24T15:49:22.662 -03"]
+[Opening "Mieses Opening"]
+[PlyCount "25"]
+[TimeControl "1"]
+
+1. d3 {+0.46/8 0.023s} d5 2. e4 {-0.13/9 0.029s} d4 3. c3 {+0.41/9 0.029s} g5
+4. Qa4+ {+1.98/9 0.022s} Bd7 5. Qd1 {+1.98/9 0.022s} Bg4
+6. Qxg4 {+5.63/8 0.012s} Na6 7. Qe2 {+6.24/9 0.013s} Bh6
+8. Nd2 {+5.77/11 0.031s} Rc8 9. Qd1 {+6.18/11 0.027s} Nf6
+10. g3 {+6.11/11 0.030s} Qd5 11. exd5 {+9.20/10 0.005s} Ng4
+12. Qxg4 {+12.71/10 0.008s} Rg8 13. Qxc8# {+M1/8 0.009s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "51"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:23.313 -03"]
+[GameStartTime "2025-05-24T15:49:22.947 -03"]
+[Opening "Saragossa Opening"]
+[PlyCount "38"]
+[TimeControl "1"]
+
+1. c3 e5 {+0.16/9 0.027s} 2. d4 e4 {0.00/9 0.029s} 3. h3 Nf6 {+0.25/9 0.030s}
+4. c4 Be7 {+0.29/7 0.011s} 5. e3 d5 {+0.22/8 0.018s} 6. Bd2 c6 {+0.59/9 0.036s}
+7. Bc3 O-O {+0.99/9 0.026s} 8. cxd5 Nxd5 {+1.16/10 0.025s} 9. Qa4
+Nd7 {+1.90/10 0.030s} 10. Bd2 N7b6 {+1.46/9 0.027s} 11. Qxa7
+Rxa7 {+8.34/11 0.012s} 12. a3 Bf5 {+8.68/10 0.027s} 13. Bb5
+Bg6 {+10.57/7 0.005s} 14. g4 Bh4 {+10.75/8 0.004s} 15. g5
+cxb5 {+11.94/12 0.013s} 16. Ke2 Qc8 {+15.13/11 0.017s} 17. Bc3
+Qf5 {+20.12/10 0.006s} 18. f3 exf3+ {+M3/9 0.005s} 19. Kf1
+Nxe3# {+M1/13 0.001s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "52"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:23.719 -03"]
+[GameStartTime "2025-05-24T15:49:23.324 -03"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "41"]
+[TimeControl "1"]
+
+1. e3 {+0.46/8 0.023s} a6 2. Nf3 {+0.25/8 0.019s} a5 3. Be2 {+0.78/7 0.011s} Nc6
+4. O-O {+1.06/10 0.022s} Nb4 5. e4 {+1.68/8 0.021s} e6 6. Re1 {+1.72/10 0.036s}
+Qf6 7. d4 {+2.41/10 0.032s} h5 8. h3 {+3.17/11 0.032s} a4 9. c3 {+3.34/9 0.009s}
+Qxd4 10. Nxd4 {+7.86/11 0.015s} Rb8 11. cxb4 {+9.39/8 0.009s} Kd8
+12. a3 {+10.86/10 0.023s} Nf6 13. Bg5 {+10.94/13 0.028s} Be7
+14. Nc3 {+11.10/9 0.012s} Rf8 15. b3 {+11.48/8 0.005s} h4
+16. bxa4 {+11.53/9 0.010s} Ra8 17. Nb3 {+11.52/10 0.024s} Ra5
+18. Nxa5 {+12.81/11 0.011s} Bd6 19. Qd4 {+13.27/10 0.019s} Be5
+20. Qc5 {+14.90/11 0.008s} Bg3 21. Qxf8# {+M1/9 0.003s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "53"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:24.157 -03"]
+[GameStartTime "2025-05-24T15:49:23.729 -03"]
+[Opening "Anderssen's Opening"]
+[PlyCount "58"]
+[TimeControl "1"]
+
+1. a3 e5 {+0.06/9 0.028s} 2. Nh3 h6 {+1.08/9 0.026s} 3. Rg1 d5 {+1.72/8 0.023s}
+4. c4 d4 {+1.95/9 0.022s} 5. Ra2 g6 {+2.46/11 0.034s} 6. Nc3 a5 {+5.95/8 0.007s}
+7. Nb5 Bg7 {+5.70/8 0.010s} 8. Nc3 dxc3 {+6.37/9 0.012s} 9. Rh1
+cxd2+ {+7.04/11 0.015s} 10. Qxd2 Qxd2+ {+7.13/11 0.037s} 11. Bxd2
+Nf6 {+6.38/11 0.032s} 12. Bb4 Nc6 {+7.77/8 0.004s} 13. Ng5
+axb4 {+8.16/10 0.005s} 14. h3 b6 {+9.29/11 0.028s} 15. Rg1 e4 {+9.25/10 0.029s}
+16. axb4 Rb8 {+10.84/10 0.009s} 17. h4 Nxb4 {+8.57/8 0.013s} 18. e3
+Nxa2 {+9.79/7 0.004s} 19. f3 hxg5 {+11.58/8 0.003s} 20. Kd1
+gxh4 {+13.26/11 0.017s} 21. Ke2 b5 {+13.49/8 0.004s} 22. b3 h3 {+14.08/8 0.005s}
+23. c5 Nc1+ {+14.97/10 0.008s} 24. Kf2 h2 {+14.49/8 0.005s} 25. f4
+Ng4+ {+21.74/9 0.003s} 26. Ke1 hxg1=Q {+24.02/11 0.008s} 27. f5
+Bc3+ {+M5/10 0.002s} 28. Kd1 Nxe3+ {+M3/10 0.001s} 29. Kxc1
+Qxf1# {+M1/13 0.001s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "54"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:24.478 -03"]
+[GameStartTime "2025-05-24T15:49:24.167 -03"]
+[Opening "Mieses Opening"]
+[PlyCount "35"]
+[TimeControl "1"]
+
+1. d3 {+0.46/9 0.026s} a6 2. d4 {+0.30/8 0.016s} Nf6 3. a3 {0.00/9 0.031s} a5
+4. Nf3 {+0.47/8 0.018s} Nh5 5. c4 {+1.32/7 0.017s} g5 6. g3 {+3.14/9 0.017s} a4
+7. g4 {+2.96/8 0.010s} Na6 8. gxh5 {+4.60/8 0.008s} e5 9. dxe5 {+6.13/10 0.009s}
+d5 10. cxd5 {+6.92/9 0.010s} f5 11. h3 {+7.82/8 0.008s} Kd7
+12. Bxg5 {+8.69/9 0.009s} Bd6 13. Qxa4+ {+11.29/11 0.014s} c6
+14. exd6 {+11.30/12 0.039s} Nc7 15. Qc2 {+13.28/10 0.014s} Rf8
+16. Bxd8 {+13.17/13 0.037s} Ne8 17. Be7 {+15.61/9 0.005s} Rb8
+18. Ne5# {+M1/9 0.004s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "55"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:24.868 -03"]
+[GameStartTime "2025-05-24T15:49:24.490 -03"]
+[Opening "Clemenz (Mead's, Basman's or de Klerk's) Opening"]
+[PlyCount "44"]
+[TimeControl "1"]
+
+1. h3 Nf6 {+0.21/9 0.030s} 2. c4 e5 {+0.21/9 0.024s} 3. Na3 Nc6 {+1.16/7 0.016s}
+4. g3 a6 {+1.26/9 0.019s} 5. d4 Bb4+ {+2.18/9 0.013s} 6. Bd2
+Bxa3 {+1.91/9 0.021s} 7. b4 Nxd4 {+6.09/11 0.029s} 8. Bg2 a5 {+5.80/10 0.033s}
+9. Qb3 Nxb3 {+7.66/11 0.011s} 10. Be3 Bxb4+ {+13.03/12 0.019s} 11. Bd2
+Nxa1 {+12.89/12 0.026s} 12. f4 Be7 {+13.49/10 0.022s} 13. Kd1
+O-O {+13.08/11 0.026s} 14. Be3 d5 {+13.96/10 0.014s} 15. Rh2
+Bf5 {+14.98/10 0.011s} 16. Kd2 Bb4+ {+17.28/7 0.006s} 17. Kc1
+c6 {+22.42/9 0.005s} 18. cxd5 cxd5 {+20.42/12 0.018s} 19. h4 Ra6 {+M5/12 0.003s}
+20. Bxd5 Qxd5 {+M5/11 0.005s} 21. Rf2 Qxa2 {+M1/11 0.001s} 22. fxe5
+Qb1# {+M1/17 0.001s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "56"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A80"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:25.269 -03"]
+[GameStartTime "2025-05-24T15:49:24.880 -03"]
+[Opening "Dutch"]
+[PlyCount "45"]
+[TimeControl "1"]
+
+1. d4 {+0.46/8 0.025s} f5 2. Nc3 {+0.88/8 0.013s} Na6 3. Bd2 {+1.59/8 0.022s}
+Nc5 4. dxc5 {+4.82/8 0.009s} Nf6 5. e3 {+4.70/11 0.036s} c6
+6. e4 {+4.96/12 0.023s} a6 7. e5 {+6.20/10 0.013s} Ng8 8. a3 {+6.80/12 0.032s}
+d5 9. exd6 {+6.76/12 0.033s} Qa5 10. b4 {+7.61/10 0.018s} Nf6
+11. bxa5 {+9.95/9 0.006s} Nd5 12. Rb1 {+11.32/8 0.009s} e5
+13. h4 {+11.85/14 0.034s} Nb4 14. axb4 {+12.79/10 0.016s} h5
+15. Qe2 {+13.24/10 0.011s} e4 16. Rd1 {+13.44/9 0.008s} Be7
+17. dxe7 {+14.25/10 0.018s} g6 18. f3 {+14.35/7 0.005s} Kf7
+19. Bg5 {+14.54/9 0.004s} exf3 20. Nxf3 {+M9/9 0.012s} Rd8
+21. exd8=Q {+M5/7 0.005s} Kg7 22. Qde7+ {+M1/6 0.003s} Kh8
+23. Rd8# {+M1/10 0.004s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "57"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:25.598 -03"]
+[GameStartTime "2025-05-24T15:49:25.283 -03"]
+[Opening "Grob's attack"]
+[PlyCount "34"]
+[TimeControl "1"]
+
+1. g4 Nf6 {+1.10/7 0.030s} 2. d3 e5 {+1.43/7 0.009s} 3. h3 d5 {+0.76/8 0.008s}
+4. g5 Nfd7 {+1.15/9 0.032s} 5. Qd2 Na6 {+1.60/8 0.015s} 6. b3
+Nb4 {+1.44/8 0.035s} 7. Kd1 a5 {+1.41/8 0.012s} 8. d4 Be7 {+2.50/8 0.022s}
+9. Na3 exd4 {+3.28/10 0.010s} 10. Qe1 c6 {+4.48/8 0.010s} 11. Nf3
+O-O {+3.46/11 0.038s} 12. Nc4 dxc4 {+7.33/10 0.005s} 13. Be3
+dxe3 {+10.20/9 0.008s} 14. a3 Nc5+ {+10.25/12 0.035s} 15. Nd2
+exd2 {+12.89/9 0.010s} 16. Rb1 dxe1=Q+ {+M3/10 0.003s} 17. Kxe1
+Nxc2# {+M1/10 0.013s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "58"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:25.919 -03"]
+[GameStartTime "2025-05-24T15:49:25.609 -03"]
+[Opening "Modern defense"]
+[PlyCount "33"]
+[TimeControl "1"]
+
+1. d4 {+0.46/8 0.023s} g6 2. Nf3 {+0.60/9 0.015s} a6 3. d5 {+0.71/12 0.031s} f5
+4. Nc3 {+1.06/12 0.024s} Ra7 5. Be3 {+4.75/9 0.007s} c5 6. Bxc5 {+3.20/7 0.008s}
+Nf6 7. Bxa7 {+6.90/11 0.008s} Ng8 8. Bxb8 {+8.52/10 0.020s} Qa5
+9. h4 {+7.92/10 0.021s} Bg7 10. Qd2 {+7.20/13 0.036s} Qa4
+11. Nxa4 {+12.94/10 0.007s} Kd8 12. Ng5 {+16.05/11 0.031s} Bf6
+13. Nb6 {+15.04/12 0.028s} Bd4 14. Nc4 {+18.46/13 0.009s} h5
+15. Qf4 {+18.28/11 0.008s} Nh6 16. Qc7+ {+M3/10 0.006s} Ke8
+17. Qxc8# {+M1/10 0.013s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "59"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A01"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:26.318 -03"]
+[GameStartTime "2025-05-24T15:49:25.929 -03"]
+[Opening "Nimzowitsch-Larsen attack"]
+[PlyCount "44"]
+[TimeControl "1"]
+[Variation "Modern variation"]
+
+1. b3 e5 {+0.35/8 0.029s} 2. Ba3 d6 {+1.19/8 0.011s} 3. h3 f5 {+0.40/8 0.031s}
+4. Bb4 Be6 {+1.17/8 0.029s} 5. Bc3 Nd7 {+1.26/7 0.026s} 6. Bd4
+exd4 {+5.74/8 0.017s} 7. Qc1 g6 {+6.49/12 0.032s} 8. a4 Bh6 {+6.91/11 0.023s}
+9. e4 a5 {+8.09/11 0.014s} 10. Ba6 Rxa6 {+9.43/10 0.011s} 11. exf5
+Bxf5 {+8.36/12 0.031s} 12. f4 Qh4+ {+8.97/10 0.027s} 13. g3
+Qe7+ {+12.15/10 0.010s} 14. Kd1 d5 {+9.26/9 0.013s} 15. Nf3 Be4 {+8.97/9 0.014s}
+16. Nh2 Re6 {+9.98/7 0.006s} 17. c4 Bxh1 {+11.24/10 0.009s} 18. Qc3
+Re1+ {+14.63/10 0.004s} 19. Kc2 dxc3 {+15.45/10 0.010s} 20. Ng4
+dxc4 {+16.45/10 0.007s} 21. h4 Qe4+ {+M5/12 0.006s} 22. d3
+Qxd3# {+M1/10 0.002s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "60"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:26.643 -03"]
+[GameStartTime "2025-05-24T15:49:26.329 -03"]
+[Opening "Queen's pawn"]
+[PlyCount "31"]
+[TimeControl "1"]
+
+1. d4 {+0.46/8 0.024s} a6 2. c4 {+0.83/7 0.009s} d5 3. e3 {+0.89/8 0.021s} Nd7
+4. Bd2 {+1.47/10 0.031s} Nb8 5. cxd5 {+1.69/7 0.012s} Bh3
+6. gxh3 {+7.04/7 0.009s} f5 7. Qb3 {+7.63/11 0.036s} f4 8. Nc3 {+7.76/8 0.007s}
+Qxd5 9. Nxd5 {+12.67/10 0.012s} Nc6 10. Nf3 {+14.51/11 0.030s} fxe3
+11. Bxe3 {+15.10/12 0.037s} Na7 12. Nxc7+ {+17.91/10 0.006s} Kd8
+13. Qxb7 {+23.20/13 0.033s} Rb8 14. Qxb8+ {+M11/12 0.019s} Kd7
+15. Ne5+ {+M3/10 0.004s} Kd6 16. Qd8# {+M1/26 0.002s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "61"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:27.012 -03"]
+[GameStartTime "2025-05-24T15:49:26.654 -03"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "42"]
+[TimeControl "1"]
+
+1. e3 d5 {-0.01/9 0.029s} 2. Bd3 h5 {+0.90/8 0.016s} 3. Nf3 h4 {+0.77/8 0.022s}
+4. g4 Bxg4 {+2.01/8 0.012s} 5. a4 e5 {+2.59/8 0.013s} 6. Na3 e4 {+6.42/7 0.015s}
+7. Kf1 Bxf3 {+7.55/9 0.008s} 8. b4 Bxd1 {+9.83/8 0.007s} 9. Nb5
+Bf3 {+11.94/10 0.007s} 10. h3 exd3 {+12.30/10 0.014s} 11. Rh2
+Be2+ {+12.80/12 0.034s} 12. Kg1 Rh6 {+12.20/11 0.038s} 13. Bb2
+dxc2 {+12.35/11 0.033s} 14. d3 Nc6 {+13.83/9 0.020s} 15. a5
+Nxb4 {+14.06/9 0.011s} 16. Ba3 Nxd3 {+14.96/11 0.023s} 17. Nxc7+
+Kd7 {+16.50/13 0.012s} 18. Ra2 Qxc7 {+20.60/11 0.014s} 19. Rb2
+c1=Q+ {+M3/10 0.001s} 20. Kg2 Qg3+ {+M1/17 0.001s} 21. fxg3
+Qf1# {+M1/13 0.008s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "62"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:27.420 -03"]
+[GameStartTime "2025-05-24T15:49:27.023 -03"]
+[Opening "Queen's pawn"]
+[PlyCount "47"]
+[TimeControl "1"]
+
+1. d4 {+0.46/8 0.024s} h5 2. a3 {+1.06/7 0.009s} d6 3. e4 {+0.97/8 0.008s} g6
+4. Nc3 {+1.08/9 0.032s} a6 5. h3 {+1.34/9 0.035s} Qd7 6. Nf3 {+1.60/9 0.033s} e6
+7. Be3 {+1.85/7 0.011s} Nf6 8. Be2 {+1.88/7 0.011s} h4 9. Bd3 {+2.32/9 0.020s}
+Qe7 10. e5 {+3.01/9 0.015s} Rh6 11. Bxh6 {+6.57/8 0.008s} Bg7
+12. Bxg7 {+8.33/8 0.006s} Kd8 13. exf6 {+12.21/10 0.009s} c6
+14. fxe7+ {+15.42/9 0.009s} Kxe7 15. O-O {+14.99/11 0.034s} g5
+16. Kh2 {+15.59/10 0.017s} e5 17. Nxg5 {+15.54/9 0.007s} Bf5
+18. dxe5 {+17.18/12 0.033s} Nd7 19. exd6+ {+17.82/10 0.018s} Kxd6
+20. Qd2 {+M11/11 0.018s} Nf8 21. Rfe1 {+M11/10 0.011s} Nh7
+22. Qf4+ {+M5/9 0.002s} Kc5 23. Na4+ {+M1/10 0.001s} Kd5
+24. Qe5# {+M1/13 0.001s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "63"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A20"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:27.812 -03"]
+[GameStartTime "2025-05-24T15:49:27.431 -03"]
+[Opening "English Opening"]
+[PlyCount "36"]
+[TimeControl "1"]
+
+1. c4 e5 {-0.06/8 0.031s} 2. h4 d6 {+0.55/8 0.014s} 3. e3 c5 {+0.24/7 0.029s}
+4. Qe2 h6 {+0.86/7 0.020s} 5. b4 cxb4 {+1.64/8 0.014s} 6. Nf3
+Nf6 {+1.71/9 0.035s} 7. Ng5 hxg5 {+6.14/8 0.006s} 8. Bb2 Rxh4 {+6.60/11 0.035s}
+9. f3 Rxh1 {+7.47/9 0.013s} 10. c5 Nc6 {+8.79/10 0.029s} 11. g3
+g6 {+10.62/6 0.005s} 12. Qb5 Bh3 {+10.33/11 0.028s} 13. e4
+Bxf1 {+11.12/11 0.029s} 14. Qc4 Bd3+ {+18.28/11 0.008s} 15. Kf2
+Nxe4+ {+16.68/11 0.014s} 16. fxe4 dxc5 {+16.22/12 0.024s} 17. Kf3
+Qf6+ {+20.90/10 0.009s} 18. Kg2 Qf1# {+M1/10 0.006s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "64"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:28.075 -03"]
+[GameStartTime "2025-05-24T15:49:27.822 -03"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "25"]
+[TimeControl "1"]
+
+1. e3 {+0.46/8 0.022s} b5 2. e4 {+1.36/7 0.019s} e6 3. Nf3 {+1.23/9 0.023s} c5
+4. Bxb5 {+1.74/8 0.019s} Qf6 5. Qe2 {+2.44/9 0.025s} Qh4
+6. Nxh4 {+8.03/8 0.007s} Ne7 7. d3 {+7.97/10 0.036s} Rg8
+8. Qh5 {+8.66/10 0.026s} Kd8 9. Qxf7 {+10.01/9 0.020s} d5
+10. Qe8+ {+12.35/10 0.013s} Kc7 11. Bf4+ {+13.06/10 0.011s} Kb7
+12. Qd8 {+M9/10 0.013s} h5 13. Qc7# {+M1/14 0.003s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "65"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A06"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:28.418 -03"]
+[GameStartTime "2025-05-24T15:49:28.086 -03"]
+[Opening "Reti Opening"]
+[PlyCount "32"]
+[TimeControl "1"]
+
+1. Nf3 d5 {-0.18/8 0.026s} 2. g4 a6 {+1.75/9 0.020s} 3. Bh3 Nc6 {+2.42/9 0.015s}
+4. b4 e6 {+3.55/9 0.015s} 5. d3 h5 {+2.69/9 0.033s} 6. Ne5
+Bxb4+ {+6.44/9 0.008s} 7. Bd2 Bxd2+ {+6.74/10 0.024s} 8. Kxd2
+Nxe5 {+7.35/11 0.029s} 9. Na3 Qg5+ {+8.11/11 0.036s} 10. Kc3
+hxg4 {+8.48/8 0.015s} 11. Kb3 Nf6 {+8.49/11 0.031s} 12. Nb5
+axb5 {+9.75/9 0.023s} 13. Qd2 Qxd2 {+13.41/10 0.010s} 14. Kb2
+Ne4 {+14.60/11 0.021s} 15. a3 Nc4+ {+M9/10 0.006s} 16. Ka2
+Qxc2# {+M1/21 0.002s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "66"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:28.868 -03"]
+[GameStartTime "2025-05-24T15:49:28.429 -03"]
+[Opening "Mieses Opening"]
+[PlyCount "55"]
+[TimeControl "1"]
+
+1. d3 {+0.46/8 0.027s} c5 2. e4 {+0.20/7 0.012s} d5 3. exd5 {+0.42/8 0.030s} e5
+4. c4 {+1.94/7 0.012s} a6 5. Nd2 {+2.07/10 0.036s} Bg4 6. Qxg4 {+6.36/8 0.009s}
+g6 7. Qe2 {+6.42/11 0.034s} b5 8. a4 {+7.03/11 0.032s} Ra7
+9. axb5 {+7.39/9 0.011s} Qf6 10. h4 {+8.11/9 0.029s} Nd7
+11. h5 {+7.61/10 0.025s} Qf3 12. Qxf3 {+12.14/12 0.026s} Rc7
+13. Rxa6 {+14.35/9 0.006s} Rc6 14. Ra8+ {+16.60/14 0.018s} Nb8
+15. hxg6 {+17.17/10 0.012s} Nh6 16. Qh5 {+18.23/10 0.007s} Nf5
+17. gxf7+ {+25.08/12 0.017s} Kd8 18. Ne4 {+18.91/11 0.018s} Kc8
+19. f3 {+18.73/10 0.011s} Rb6 20. Qxf5+ {+16.00/8 0.011s} Kb7
+21. Ra5 {+16.91/12 0.014s} Re6 22. dxe6 {+21.01/8 0.005s} Bh6
+23. Qf6 {+26.66/7 0.002s} Nc6 24. e7 {+27.17/9 0.005s} Bd2+
+25. Nxd2 {+29.49/5 0.001s} Rc8 26. e8=Q {+32.14/8 0.001s} Ra8
+27. Qexc6+ {+M1/10 0.001s} Kb8 28. f8=R# {+M1/12 0s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "67"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:29.227 -03"]
+[GameStartTime "2025-05-24T15:49:28.879 -03"]
+[Opening "Saragossa Opening"]
+[PlyCount "42"]
+[TimeControl "1"]
+
+1. c3 Nf6 {+0.24/9 0.027s} 2. e4 e5 {+0.85/10 0.022s} 3. g4 Nc6 {+2.13/8 0.015s}
+4. Nf3 h5 {+2.34/8 0.014s} 5. Nxe5 Nxe5 {+3.49/8 0.013s} 6. gxh5
+d6 {+3.91/11 0.033s} 7. Qa4+ Nc6 {+5.46/9 0.009s} 8. Qxa7 Rxa7 {+8.66/11 0.015s}
+9. Ba6 Rxa6 {+11.59/12 0.028s} 10. b3 Ne5 {+13.08/12 0.035s} 11. Rg1
+Nf3+ {+14.23/12 0.014s} 12. Ke2 Nxg1+ {+13.81/11 0.018s} 13. Kd3
+Nxe4 {+14.71/9 0.007s} 14. f3 Nxf3 {+18.23/12 0.023s} 15. a4
+Bf5 {+M17/12 0.029s} 16. h4 Ng3+ {+M7/11 0.004s} 17. Ke3 Nh2 {+27.85/10 0.004s}
+18. h6 d5 {+M7/10 0.007s} 19. Ra3 Re6+ {+M5/10 0.005s} 20. Kd4
+Qxh4+ {+M1/23 0.001s} 21. Kxd5 c6# {+M1/23 0.002s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "68"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:29.674 -03"]
+[GameStartTime "2025-05-24T15:49:29.238 -03"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "67"]
+[TimeControl "1"]
+
+1. e4 {+0.46/8 0.026s} a6 2. c4 {+0.93/8 0.029s} g6 3. d3 {+0.89/9 0.035s} c6
+4. d4 {+0.77/10 0.027s} h6 5. Ne2 {+1.12/8 0.017s} Nf6 6. Nbc3 {+0.84/7 0.021s}
+Ng4 7. h3 {+1.91/9 0.036s} Rg8 8. hxg4 {+6.80/7 0.009s} e5
+9. d5 {+6.70/11 0.029s} cxd5 10. cxd5 {+6.91/10 0.010s} Rh8
+11. d6 {+6.91/8 0.005s} Bxd6 12. Qxd6 {+8.61/10 0.012s} Qc7
+13. Qxc7 {+11.85/13 0.020s} b6 14. Qxc8+ {+19.10/10 0.004s} Ke7
+15. Qc7 {+M13/12 0.025s} b5 16. Qxe5+ {+19.10/10 0.017s} Kf8
+17. b3 {+M7/10 0.007s} Kg8 18. b4 {+M11/13 0.018s} f5
+19. gxf5 {+18.23/10 0.013s} d5 20. Qe6+ {+26.58/9 0.003s} Kf8
+21. Nf4 {+28.39/11 0.011s} d4 22. Nxg6+ {+M3/8 0.002s} Kg7
+23. Qe7+ {+M5/8 0.004s} Kg8 24. Qf8+ {+M3/10 0.002s} Kh7
+25. Qxh6+ {+M1/22 0.001s} Kg8 26. Qxh8+ {+M1/14 0.002s} Kf7
+27. Bc4+ {+M1/21 0.001s} bxc4 28. Ne5+ {+M1/13 0.001s} Ke7
+29. Rh6 {+M3/10 0.002s} a5 30. Rh7+ {+M1/16 0.002s} Kd6
+31. Nxc4+ {+M1/16 0.002s} Kc6 32. Qe8+ {+M1/10 0.001s} Nd7
+33. Qxa8+ {+M1/10 0.001s} Kc7 34. Nd5# {+M1/15 0.001s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "69"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A40"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:30.049 -03"]
+[GameStartTime "2025-05-24T15:49:29.685 -03"]
+[Opening "Queen's pawn"]
+[PlyCount "46"]
+[TimeControl "1"]
+
+1. d4 e6 {-0.22/8 0.028s} 2. g4 h6 {+0.57/8 0.017s} 3. Nf3 Be7 {+0.36/9 0.030s}
+4. Nbd2 d6 {+0.21/9 0.016s} 5. Rg1 Bd7 {0.00/8 0.011s} 6. Rb1
+a5 {+0.63/8 0.035s} 7. Ne4 g6 {+0.64/8 0.026s} 8. Ng3 d5 {+0.80/7 0.010s} 9. a3
+Nf6 {+0.95/8 0.017s} 10. b3 Nxg4 {+1.03/10 0.038s} 11. Rb2 Bxa3 {+3.04/7 0.008s}
+12. Nh5 Bb4+ {+6.52/9 0.009s} 13. Qd2 Bxd2+ {+7.29/10 0.012s} 14. Bxd2
+gxh5 {+7.29/10 0.015s} 15. Bb4 axb4 {+9.79/9 0.008s} 16. e3
+Qf6 {+10.30/9 0.009s} 17. Be2 Rh7 {+10.66/11 0.020s} 18. Ba6
+Rxa6 {+12.44/11 0.007s} 19. Rb1 Qxf3 {+13.06/10 0.007s} 20. Rg2
+Qxg2 {+M7/14 0.012s} 21. Rb2 Ra1+ {+M5/10 0.003s} 22. Ke2 Qxf2+ {+M3/13 0.002s}
+23. Kd3 Rd1# {+M1/15 0.001s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "70"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:30.532 -03"]
+[GameStartTime "2025-05-24T15:49:30.060 -03"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "69"]
+[TimeControl "1"]
+
+1. e3 {+0.46/8 0.025s} Nc6 2. Nc3 {+0.57/7 0.012s} Rb8 3. a3 {+0.82/9 0.031s}
+Na5 4. Qh5 {+1.22/8 0.026s} Nc6 5. b4 {+0.22/8 0.033s} a5 6. b5 {+0.94/7 0.006s}
+g6 7. Qf3 {+1.48/8 0.024s} Nd4 8. exd4 {+4.80/9 0.023s} Nf6
+9. Nd1 {+5.09/11 0.033s} d6 10. a4 {+4.85/10 0.030s} Nh5
+11. Rb1 {+5.39/11 0.025s} f6 12. Bc4 {+5.96/11 0.021s} Bd7
+13. Ba2 {+6.13/11 0.021s} Bc6 14. bxc6 {+9.77/10 0.011s} Bg7
+15. Be6 {+9.61/10 0.017s} bxc6 16. Rb3 {+8.36/11 0.017s} d5
+17. Ne2 {+7.83/10 0.012s} Rg8 18. Bxg8 {+9.25/10 0.012s} Ra8
+19. Qc3 {+11.80/9 0.006s} f5 20. d3 {+10.89/10 0.013s} Kd7
+21. h3 {+9.05/8 0.007s} c5 22. Bxh7 {+11.12/6 0.001s} Bf6
+23. Qxc5 {+13.23/9 0.004s} Nf4 24. Bxf4 {+15.53/10 0.005s} Ke8
+25. g4 {+14.72/7 0.005s} e5 26. Bxg6+ {+21.74/8 0.002s} Kd7
+27. Bxf5+ {+27.03/9 0.006s} Ke8 28. Bg6+ {+23.02/3 0s} Kd7
+29. Bf5+ {+23.02/6 0.001s} Ke8 30. Bg6+ {+21.55/7 0.002s} Kd7
+31. dxe5 {+24.44/6 0.002s} c6 32. Qd6+ {+M5/5 0.001s} Kc8
+33. Bf5+ {+M3/3 0.001s} Qd7 34. Qxc6+ {+M1/4 0.001s} Kd8
+35. Qxd7# {+M1/3 0.001s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "71"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:30.911 -03"]
+[GameStartTime "2025-05-24T15:49:30.544 -03"]
+[Opening "Anti-Borg (Desprez) Opening"]
+[PlyCount "44"]
+[TimeControl "1"]
+
+1. h4 e6 {+0.41/9 0.029s} 2. b3 d5 {+0.41/8 0.023s} 3. Nh3 Bd6 {+1.33/8 0.019s}
+4. g3 Nc6 {+1.09/6 0.008s} 5. f4 Nf6 {+2.20/8 0.025s} 6. Rh2
+Ng4 {+3.42/9 0.024s} 7. Ng1 Nxh2 {+7.66/9 0.007s} 8. a4 Nb4 {+8.38/8 0.008s}
+9. a5 O-O {+9.74/10 0.022s} 10. e3 e5 {+8.17/10 0.012s} 11. Qh5
+Nxc2+ {+11.03/9 0.007s} 12. Kf2 Bg4 {+11.29/12 0.038s} 13. Qh6
+gxh6 {+13.19/10 0.008s} 14. Kg2 Nxf1 {+13.67/11 0.016s} 15. a6
+bxa6 {+14.08/8 0.006s} 16. Na3 Nxa1 {+15.72/12 0.016s} 17. e4
+Bc5 {+16.54/13 0.026s} 18. b4 exf4 {+17.68/12 0.022s} 19. gxf4
+Bxg1 {+18.32/13 0.013s} 20. Nb1 d4 {+M5/11 0.009s} 21. Kh1 Bf2 {+M7/11 0.005s}
+22. f5 Bf3# {+M1/10 0.002s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "72"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:31.312 -03"]
+[GameStartTime "2025-05-24T15:49:30.922 -03"]
+[Opening "Queen's pawn"]
+[PlyCount "43"]
+[TimeControl "1"]
+
+1. d4 {+0.46/8 0.025s} a5 2. e4 {+1.01/8 0.007s} Na6 3. c3 {+1.23/8 0.024s} e6
+4. Nf3 {+1.32/9 0.028s} b6 5. e5 {+1.60/8 0.015s} Qe7 6. Be2 {+1.53/10 0.033s}
+h5 7. Bd3 {+1.95/10 0.032s} Rh6 8. O-O {+3.85/9 0.016s} Kd8
+9. c4 {+3.92/10 0.022s} f6 10. Be4 {+3.79/9 0.009s} Nb8
+11. Bxa8 {+7.75/9 0.006s} Ke8 12. Nc3 {+8.35/10 0.028s} Rg6
+13. Be4 {+8.20/9 0.018s} fxe5 14. dxe5 {+9.98/10 0.008s} Kd8
+15. a3 {+9.98/8 0.016s} Qg5 16. Nxg5 {+13.13/9 0.015s} Bb7
+17. Nf7+ {+14.35/8 0.010s} Ke7 18. Nh8 {+14.35/10 0.013s} h4
+19. Qf3 {+15.81/11 0.011s} Nh6 20. Nxg6+ {+M3/10 0.003s} Kd8
+21. Bg5+ {+M1/10 0.012s} Ke8 22. Qxf8# {+M1/10 0.014s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "73"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A06"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:31.654 -03"]
+[GameStartTime "2025-05-24T15:49:31.323 -03"]
+[Opening "Reti Opening"]
+[PlyCount "36"]
+[TimeControl "1"]
+
+1. Nf3 d5 {-0.17/8 0.028s} 2. Rg1 e6 {+0.50/7 0.014s} 3. c3 Nc6 {+0.72/9 0.030s}
+4. Nd4 Bd7 {+1.17/9 0.013s} 5. Nf3 e5 {+1.52/8 0.009s} 6. Nd4
+exd4 {+6.34/9 0.009s} 7. f4 Nge7 {+7.17/12 0.029s} 8. h3 Ng8 {+7.43/12 0.039s}
+9. e3 Bd6 {+6.33/11 0.034s} 10. b4 a6 {+6.99/9 0.015s} 11. Qa4
+b5 {+7.71/9 0.015s} 12. Ba3 bxa4 {+9.11/9 0.007s} 13. Be2 Bf5 {+10.73/10 0.005s}
+14. g4 Qh4+ {+10.53/11 0.015s} 15. Kd1 d3 {+10.28/10 0.013s} 16. Bb2
+Qf2 {+14.19/12 0.024s} 17. Bxd3 Bxd3 {+13.35/10 0.010s} 18. g5
+Qxg1# {+M1/10 0.002s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "74"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "C00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:32.005 -03"]
+[GameStartTime "2025-05-24T15:49:31.665 -03"]
+[Opening "French defense"]
+[PlyCount "37"]
+[TimeControl "1"]
+
+1. e4 {+0.46/8 0.024s} e6 2. d4 {+0.65/8 0.032s} Qh4 3. Nd2 {+1.53/7 0.008s} f6
+4. c3 {+2.08/7 0.017s} c5 5. Be2 {+2.38/10 0.031s} g6 6. g3 {+3.04/9 0.019s} h6
+7. gxh4 {+7.79/10 0.008s} Nc6 8. Bh5 {+8.20/11 0.032s} cxd4
+9. Ne2 {+7.98/10 0.015s} a5 10. Nxd4 {+8.23/12 0.028s} d5
+11. Bxg6+ {+8.61/9 0.012s} Kd8 12. Nb1 {+9.20/11 0.031s} Bd7
+13. Bh5 {+8.61/10 0.027s} b5 14. exd5 {+8.70/7 0.003s} Bc8
+15. dxe6 {+15.05/10 0.005s} Bd7 16. Nxc6+ {+15.04/11 0.012s} Kc7
+17. Nb4 {+18.68/11 0.012s} Kc8 18. Qxd7+ {+M3/10 0.004s} Kb8
+19. Nc6# {+M1/13 0.001s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "75"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:32.352 -03"]
+[GameStartTime "2025-05-24T15:49:32.015 -03"]
+[Opening "Ware (Meadow Hay) Opening"]
+[PlyCount "38"]
+[TimeControl "1"]
+
+1. a4 d5 {+0.34/8 0.028s} 2. a5 e5 {+0.90/7 0.008s} 3. Ra4 c5 {+1.47/9 0.028s}
+4. b4 c4 {+2.51/9 0.021s} 5. Ba3 a6 {+3.04/10 0.020s} 6. d4
+Bd7 {+2.91/11 0.019s} 7. e3 Bxa4 {+4.60/11 0.027s} 8. e4 Nd7 {+6.15/10 0.019s}
+9. Qc1 Rc8 {+6.32/10 0.010s} 10. Be2 exd4 {+6.18/11 0.028s} 11. Qh6
+gxh6 {+11.94/11 0.015s} 12. g4 Ne5 {+13.13/10 0.013s} 13. Bd3
+Bxb4+ {+14.92/10 0.014s} 14. Nd2 Bxa5 {+15.69/9 0.006s} 15. Bf1
+dxe4 {+16.82/10 0.017s} 16. h3 e3 {+16.63/12 0.031s} 17. Bg2
+Qf6 {+18.64/9 0.005s} 18. Bxb7 Qxf2+ {+M3/7 0.004s} 19. Kd1
+Qxd2# {+M1/10 0.006s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "76"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "D00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:32.609 -03"]
+[GameStartTime "2025-05-24T15:49:32.363 -03"]
+[Opening "Queen's pawn, Mason variation"]
+[PlyCount "25"]
+[TimeControl "1"]
+
+1. d4 {+0.46/8 0.033s} d5 2. Bf4 {+0.22/8 0.022s} Bd7 3. h3 {+0.45/7 0.020s} a6
+4. c3 {+0.55/8 0.019s} Bc6 5. e3 {+0.67/8 0.032s} g5 6. Bxg5 {+2.74/7 0.007s} f5
+7. Bd3 {+4.62/8 0.011s} b5 8. Qh5+ {+9.00/9 0.010s} Kd7
+9. Bxf5+ {+9.66/10 0.020s} e6 10. Bxe6+ {+8.97/12 0.035s} Kd6
+11. Bxd8 {+9.93/10 0.013s} Bb7 12. Qe5+ {+M3/10 0.005s} Kc6
+13. Qxc7# {+M1/16 0.003s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "77"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:33.009 -03"]
+[GameStartTime "2025-05-24T15:49:32.620 -03"]
+[Opening "Anderssen's Opening"]
+[PlyCount "38"]
+[TimeControl "1"]
+
+1. a3 d5 {+0.03/8 0.027s} 2. d4 Nf6 {+0.07/8 0.028s} 3. Be3 Bd7 {+0.68/8 0.030s}
+4. Bd2 c5 {+0.45/9 0.023s} 5. b3 cxd4 {+2.57/7 0.010s} 6. c3
+Nc6 {+2.14/10 0.032s} 7. g4 Rc8 {+4.45/11 0.034s} 8. e4 dxe4 {+5.71/11 0.023s}
+9. Bg2 Bxg4 {+6.66/10 0.005s} 10. Bxe4 Bxd1 {+9.02/10 0.024s} 11. Bc2
+Bxc2 {+11.53/10 0.007s} 12. Kf1 Ne4 {+13.98/9 0.016s} 13. c4
+Bxb1 {+15.39/10 0.023s} 14. Bf4 Bc2 {+13.12/11 0.022s} 15. Bc7
+Rxc7 {+15.51/9 0.006s} 16. Nh3 Qd7 {+16.42/14 0.022s} 17. Nf4
+Qc8 {+16.64/10 0.012s} 18. Nh5 Qf5 {+16.95/12 0.020s} 19. b4
+Qxf2# {+M1/8 0.003s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "78"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:33.170 -03"]
+[GameStartTime "2025-05-24T15:49:33.019 -03"]
+[Opening "Reversed Grob (Borg/Basman defense/macho Grob)"]
+[PlyCount "15"]
+[TimeControl "1"]
+
+1. e4 {+0.46/8 0.026s} g5 2. Nc3 {+2.00/9 0.030s} Bg7 3. d3 {+2.39/7 0.007s} g4
+4. Qxg4 {+2.61/7 0.013s} f6 5. Qxg7 {+7.70/8 0.012s} h5
+6. Be2 {+12.07/11 0.030s} Rh6 7. Bxh5+ {+M1/9 0.007s} Rxh5
+8. Qxg8# {+M1/10 0.013s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "79"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:33.497 -03"]
+[GameStartTime "2025-05-24T15:49:33.181 -03"]
+[Opening "Amar (Paris) Opening"]
+[PlyCount "32"]
+[TimeControl "1"]
+
+1. Nh3 Nf6 {+0.31/8 0.029s} 2. b4 d5 {+1.20/10 0.032s} 3. e4 g6 {+2.68/9 0.007s}
+4. b5 Bxh3 {+2.76/9 0.025s} 5. Bb2 Be6 {+4.73/11 0.033s} 6. Na3
+dxe4 {+6.34/10 0.006s} 7. c3 Bh6 {+7.01/10 0.018s} 8. Qe2 Bg7 {+7.52/10 0.029s}
+9. h4 h6 {+7.14/11 0.034s} 10. Qd3 exd3 {+10.34/8 0.008s} 11. Rc1
+Qd5 {+12.07/10 0.022s} 12. Nc4 Qxc4 {+12.97/8 0.005s} 13. Rh3
+Qxb5 {+13.44/10 0.010s} 14. Rb1 Bc4 {+14.01/13 0.028s} 15. Be2
+Qe5 {+15.22/9 0.005s} 16. Ra1 Qxe2# {+M1/7 0.005s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "80"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:33.692 -03"]
+[GameStartTime "2025-05-24T15:49:33.508 -03"]
+[Opening "King's pawn"]
+[PlyCount "19"]
+[TimeControl "1"]
+[Variation "Nimzowitsch defense"]
+
+1. e4 {+0.46/8 0.027s} Nc6 2. Bc4 {+1.08/8 0.011s} h6 3. Nc3 {+0.99/7 0.026s} b5
+4. Bxb5 {+1.81/10 0.025s} Rh7 5. Nf3 {+3.29/9 0.010s} g5 6. d4 {+3.57/8 0.009s}
+d6 7. Ne5 {+7.45/11 0.021s} Nf6 8. Bxc6+ {+8.04/10 0.011s} Bd7
+9. Nxd7 {+7.94/10 0.015s} a5 10. Nxf6# {+M1/9 0.010s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "81"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:34.121 -03"]
+[GameStartTime "2025-05-24T15:49:33.703 -03"]
+[Opening "Anderssen's Opening"]
+[PlyCount "50"]
+[TimeControl "1"]
+
+1. a3 e5 {+0.06/9 0.027s} 2. h4 Nc6 {+0.82/9 0.008s} 3. a4 a6 {+1.47/10 0.031s}
+4. c3 h6 {+1.35/9 0.028s} 5. d3 d5 {+1.44/9 0.033s} 6. Kd2 Qd7 {+2.32/9 0.032s}
+7. Ra2 Nf6 {+2.67/7 0.012s} 8. Kc2 d4 {+2.93/9 0.035s} 9. e3
+Nd5 {+3.19/7 0.015s} 10. Qh5 Ncb4+ {+5.39/9 0.011s} 11. Kd1
+Nxc3+ {+6.92/10 0.016s} 12. Nxc3 Nxa2 {+3.68/10 0.027s} 13. Ne4
+Qxa4+ {+5.55/8 0.010s} 14. Ke2 Nxc1+ {+7.03/9 0.008s} 15. Kd2
+Bb4+ {+8.10/10 0.007s} 16. Kxc1 Be6 {+6.14/10 0.026s} 17. Kb1
+Qa2+ {+7.85/7 0.005s} 18. Kc1 Qa1+ {+8.00/11 0.020s} 19. Kc2
+Qxf1 {+8.02/8 0.006s} 20. Ng3 Qxg2 {+8.84/10 0.013s} 21. Qf5
+Qd5 {+11.89/6 0.002s} 22. Qf6 gxf6 {+11.74/8 0.002s} 23. Ne4
+Qa2 {+12.35/10 0.012s} 24. Nh3 Bb3+ {+M3/7 0.003s} 25. Kc1
+Qa1# {+M1/10 0.004s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "82"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:34.493 -03"]
+[GameStartTime "2025-05-24T15:49:34.132 -03"]
+[Opening "Queen's pawn"]
+[PlyCount "39"]
+[TimeControl "1"]
+[Variation "English defense"]
+
+1. d4 {+0.46/8 0.023s} b6 2. a4 {+0.77/9 0.007s} g6 3. e4 {+0.96/8 0.013s} Bb7
+4. e5 {+0.88/9 0.032s} d5 5. h4 {+1.42/10 0.032s} f5 6. Bb5+ {+2.70/9 0.034s}
+Kf7 7. h5 {+2.83/8 0.021s} Qd6 8. exd6 {+9.52/8 0.007s} Nf6
+9. hxg6+ {+10.84/12 0.032s} hxg6 10. Rxh8 {+9.79/10 0.013s} c6
+11. Nf3 {+12.04/12 0.031s} a6 12. Ne5+ {+14.47/11 0.015s} Kg7
+13. Rh6 {+14.64/10 0.026s} Bc8 14. Rxg6+ {+18.41/9 0.005s} Kh8
+15. Nf7+ {+20.60/10 0.013s} Kh7 16. dxe7 {+17.18/12 0.023s} Nh5
+17. exf8=Q {+M1/8 0.003s} Kxg6 18. Nh8+ {+M3/10 0.003s} Kh7
+19. Qf7+ {+M1/14 0.001s} Ng7 20. Qdh5# {+M1/10 0.004s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "83"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:34.917 -03"]
+[GameStartTime "2025-05-24T15:49:34.505 -03"]
+[Opening "Grob's attack"]
+[PlyCount "44"]
+[TimeControl "1"]
+
+1. g4 e5 {+1.11/8 0.028s} 2. Nc3 c6 {+1.50/8 0.030s} 3. Nb1 d6 {+2.12/8 0.010s}
+4. d3 h5 {+2.25/8 0.018s} 5. f4 hxg4 {+3.82/11 0.018s} 6. f5
+Nd7 {+5.01/9 0.026s} 7. Bf4 exf4 {+8.71/6 0.010s} 8. Qc1 Qh4+ {+8.67/10 0.037s}
+9. Kd1 Qf2 {+8.59/10 0.035s} 10. Qxf4 Qxf4 {+10.29/10 0.019s} 11. h4
+Qxf1+ {+14.69/9 0.017s} 12. Kd2 g3 {+14.93/10 0.018s} 13. Nf3
+Qxh1 {+15.63/10 0.013s} 14. Ng5 Ne7 {+17.64/10 0.016s} 15. e3
+Nc5 {+17.96/12 0.023s} 16. b3 Nxf5 {+17.50/14 0.025s} 17. e4
+Nd4 {+18.91/13 0.017s} 18. Ne6 Bxe6 {+M7/9 0.003s} 19. h5 Qg2+ {+M5/8 0.003s}
+20. Ke1 Qf2+ {+M1/10 0.001s} 21. Kd1 Bg4+ {+M3/5 0.004s} 22. Kc1
+Qxc2# {+M1/7 0.014s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "84"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:35.271 -03"]
+[GameStartTime "2025-05-24T15:49:34.930 -03"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "35"]
+[TimeControl "1"]
+
+1. e3 {+0.46/8 0.023s} e6 2. Nf3 {+0.30/9 0.029s} Nf6 3. Be2 {+0.22/8 0.032s}
+Ng8 4. e4 {+0.75/7 0.012s} a5 5. a3 {+1.30/9 0.030s} Ne7 6. e5 {+1.35/8 0.014s}
+d6 7. exd6 {+0.82/9 0.033s} Ng8 8. dxc7 {+2.77/6 0.006s} Bd6
+9. cxd8=N {+9.20/10 0.033s} Nh6 10. O-O {+9.03/11 0.028s} Nf5
+11. Ng5 {+10.01/10 0.018s} Ng3 12. fxg3 {+13.12/9 0.008s} Ke7
+13. Nxb7 {+14.15/9 0.009s} Be5 14. Rxf7+ {+15.60/8 0.005s} Ke8
+15. Qf1 {+17.18/12 0.022s} Bf6 16. Bb5+ {+M7/10 0.005s} Nd7
+17. Nd6+ {+M3/11 0.005s} Kd8 18. Nxe6# {+M1/10 0.009s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "85"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A02"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:35.475 -03"]
+[GameStartTime "2025-05-24T15:49:35.282 -03"]
+[Opening "Bird's Opening"]
+[PlyCount "16"]
+[TimeControl "1"]
+
+1. f4 e6 {+0.44/9 0.030s} 2. d3 Nh6 {+0.28/8 0.030s} 3. b4 Nc6 {+1.78/8 0.033s}
+4. Nh3 Nxb4 {+2.19/9 0.015s} 5. Nd2 Qf6 {+2.92/10 0.031s} 6. c3
+Qxc3 {+5.09/8 0.020s} 7. Nf2 Qxa1 {+7.61/10 0.012s} 8. Bb2
+Nc2# {+M1/11 0.013s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "86"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:35.857 -03"]
+[GameStartTime "2025-05-24T15:49:35.487 -03"]
+[Opening "Mieses Opening"]
+[PlyCount "41"]
+[TimeControl "1"]
+
+1. d3 {+0.46/9 0.024s} c5 2. Nf3 {+0.17/7 0.020s} Qa5+ 3. Bd2 {+0.52/8 0.025s}
+g5 4. Bxa5 {+7.75/7 0.008s} Bh6 5. Bc3 {+8.09/10 0.034s} c4
+6. e4 {+10.74/8 0.010s} cxd3 7. Qxd3 {+10.07/10 0.024s} a6
+8. Bxh8 {+10.48/8 0.011s} g4 9. Ne5 {+11.59/10 0.019s} f5
+10. Qb3 {+14.40/9 0.018s} f4 11. Qf7+ {+15.31/11 0.009s} Kd8
+12. Qxg8+ {+15.05/10 0.014s} Kc7 13. Nxg4 {+15.24/10 0.012s} f3
+14. Bc3 {+15.40/11 0.034s} fxg2 15. Rg1 {+13.40/12 0.019s} e6
+16. Nf6 {+14.21/11 0.018s} Kc6 17. Rxg2 {+M7/10 0.015s} Kc7
+18. Be5+ {+18.40/11 0.026s} Kb6 19. Qd8+ {+M9/10 0.003s} Ka7
+20. Bd4+ {+M3/10 0.002s} b6 21. Qxb6# {+M1/25 0.001s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "87"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A10"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:36.187 -03"]
+[GameStartTime "2025-05-24T15:49:35.867 -03"]
+[Opening "English Opening"]
+[PlyCount "36"]
+[TimeControl "1"]
+
+1. c4 d6 {-0.06/9 0.027s} 2. Nh3 Bxh3 {+0.32/8 0.019s} 3. g4
+Bxg4 {+5.72/10 0.016s} 4. b3 e6 {+6.37/12 0.032s} 5. Ba3 Nd7 {+6.60/12 0.030s}
+6. Bc5 dxc5 {+9.07/9 0.010s} 7. e4 Bxd1 {+12.25/10 0.006s} 8. a3
+Qh4 {+13.67/13 0.033s} 9. d4 Qxe4+ {+16.13/10 0.005s} 10. Kxd1
+Qxh1 {+15.81/13 0.035s} 11. Nd2 h6 {+16.18/11 0.015s} 12. f4
+Qg1 {+16.54/10 0.010s} 13. Ra2 cxd4 {+16.41/10 0.017s} 14. Nb1
+Nc5 {+16.68/11 0.028s} 15. Nc3 dxc3 {+19.92/10 0.012s} 16. Rf2
+Qxf2 {+M9/11 0.005s} 17. f5 O-O-O+ {+M1/22 0.001s} 18. Bd3
+Qd2# {+M1/40 0.002s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "88"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A80"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:36.539 -03"]
+[GameStartTime "2025-05-24T15:49:36.197 -03"]
+[Opening "Dutch"]
+[PlyCount "41"]
+[TimeControl "1"]
+
+1. d4 {+0.46/9 0.024s} f5 2. Nf3 {+0.67/9 0.028s} a5 3. g3 {+0.67/8 0.016s} h5
+4. e4 {+2.37/9 0.015s} g6 5. exf5 {+2.81/9 0.019s} Nh6 6. fxg6 {+4.17/10 0.017s}
+a4 7. Ng5 {+4.25/8 0.015s} d5 8. Nc3 {+3.54/9 0.037s} Na6
+9. Bd3 {+4.47/9 0.012s} Rb8 10. O-O {+5.05/10 0.035s} Nf5
+11. h4 {+6.83/8 0.008s} Rh7 12. gxh7 {+14.49/10 0.005s} Nb4
+13. Qxh5+ {+16.63/11 0.011s} Kd7 14. Bxf5+ {+16.82/10 0.015s} Kc6
+15. Qg6+ {+16.59/8 0.006s} e6 16. Nf7 {+16.32/11 0.032s} Bg7
+17. Nxd8+ {+22.52/9 0.011s} Kd7 18. Qf7+ {+M3/11 0.002s} Kxd8
+19. Bg5+ {+M3/10 0.003s} Bf6 20. Qxf6+ {+M1/35 0.003s} Kd7
+21. Qxe6# {+M1/22 0.007s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "89"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A01"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:36.835 -03"]
+[GameStartTime "2025-05-24T15:49:36.550 -03"]
+[Opening "Nimzowitsch-Larsen attack"]
+[PlyCount "30"]
+[TimeControl "1"]
+[Variation "Classical variation"]
+
+1. b3 d5 {+0.35/8 0.029s} 2. f3 c6 {+1.53/7 0.016s} 3. a4 d4 {+1.31/8 0.023s}
+4. e3 g6 {+0.47/10 0.032s} 5. g4 Bg7 {+1.45/8 0.034s} 6. Be2
+dxe3 {+4.09/9 0.012s} 7. Bb5 exd2+ {+6.46/12 0.019s} 8. Kf2
+dxc1=Q {+8.93/13 0.035s} 9. Nd2 Qxa1 {+14.45/10 0.009s} 10. Kf1
+Qxd1+ {+25.74/10 0.005s} 11. Kg2 cxb5 {+25.66/11 0.022s} 12. Nh3
+Q8xd2+ {+M9/11 0.020s} 13. Kg3 Qxh1 {+M7/9 0.005s} 14. f4 Qhe1+ {+M3/13 0.002s}
+15. Kf3 Qee3# {+M1/24 0.003s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "90"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:37.243 -03"]
+[GameStartTime "2025-05-24T15:49:36.849 -03"]
+[Opening "Mieses Opening"]
+[PlyCount "41"]
+[TimeControl "1"]
+
+1. d3 {+0.46/8 0.025s} b6 2. d4 {+0.51/6 0.013s} Nc6 3. e4 {+0.94/8 0.034s} Nf6
+4. d5 {+1.50/8 0.016s} Nb4 5. c3 {+2.23/13 0.031s} e5 6. Nf3 {+3.04/7 0.006s}
+Ng4 7. cxb4 {+3.98/8 0.036s} c6 8. d6 {+6.02/9 0.012s} b5
+9. a3 {+5.31/12 0.034s} g5 10. Nc3 {+6.81/13 0.026s} Ne3
+11. Bxe3 {+8.52/9 0.007s} Rg8 12. a4 {+9.67/11 0.022s} bxa4
+13. Bc4 {+9.11/11 0.031s} h5 14. g3 {+10.48/10 0.025s} Qe7
+15. dxe7 {+11.53/10 0.005s} a5 16. Nxe5 {+16.23/11 0.011s} Bh6
+17. Bxf7+ {+21.38/11 0.008s} Kxe7 18. Bc5+ {+20.90/10 0.008s} Kf6
+19. Qd6+ {+M5/10 0.008s} Kg7 20. Qg6+ {+M3/9 0.006s} Kh8
+21. Qxh6# {+M1/10 0.002s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "91"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:37.563 -03"]
+[GameStartTime "2025-05-24T15:49:37.255 -03"]
+[Opening "Anti-Borg (Desprez) Opening"]
+[PlyCount "26"]
+[TimeControl "1"]
+
+1. h4 e6 {+0.45/9 0.029s} 2. g3 Be7 {+0.09/9 0.029s} 3. Bh3 d5 {+0.47/8 0.029s}
+4. f4 d4 {+1.09/8 0.033s} 5. a4 Qd5 {+1.20/8 0.019s} 6. Kf2
+Qxh1 {+1.52/9 0.019s} 7. Qf1 Nf6 {+6.75/10 0.025s} 8. Bg2 Qh2 {+7.32/10 0.014s}
+9. a5 Ng4+ {+8.07/12 0.028s} 10. Ke1 Qxg3+ {+8.08/12 0.030s} 11. Qf2
+Qxf2+ {+M5/10 0.009s} 12. Kd1 Qxg1+ {+M3/10 0.019s} 13. Bf1
+Qxf1# {+M1/10 0.012s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "92"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:37.838 -03"]
+[GameStartTime "2025-05-24T15:49:37.573 -03"]
+[Opening "Queen's pawn"]
+[PlyCount "25"]
+[TimeControl "1"]
+
+1. d4 {+0.46/8 0.025s} f6 2. Nf3 {+1.52/9 0.029s} Na6 3. a3 {+1.68/8 0.013s} h6
+4. g3 {+3.14/9 0.018s} Rh7 5. c4 {+4.21/9 0.009s} Nc5 6. dxc5 {+6.80/11 0.020s}
+e6 7. b4 {+6.78/12 0.037s} h5 8. Qc2 {+7.33/9 0.014s} g5
+9. Qxh7 {+7.78/12 0.035s} Rb8 10. Qxg8 {+11.50/12 0.019s} a5
+11. Bb2 {+12.76/10 0.016s} h4 12. Qg6+ {+M3/8 0.006s} Ke7
+13. Bxf6# {+M1/11 0.006s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "93"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:38.033 -03"]
+[GameStartTime "2025-05-24T15:49:37.849 -03"]
+[Opening "Ware (Meadow Hay) Opening"]
+[PlyCount "18"]
+[TimeControl "1"]
+
+1. a4 e5 {+0.34/8 0.029s} 2. d3 d5 {+0.44/9 0.033s} 3. e4 dxe4 {+0.47/8 0.030s}
+4. Bd2 Nc6 {+1.25/6 0.015s} 5. Qg4 Bxg4 {+7.75/8 0.007s} 6. d4
+Nb4 {+10.97/8 0.007s} 7. Ba6 e3 {+11.89/10 0.012s} 8. h3
+exd2+ {+12.32/11 0.022s} 9. Kf1 d1=Q# {+M1/9 0.016s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "94"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:38.378 -03"]
+[GameStartTime "2025-05-24T15:49:38.043 -03"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "33"]
+[TimeControl "1"]
+
+1. e3 {+0.46/8 0.023s} g6 2. Nf3 {+0.37/8 0.028s} c5 3. d4 {+0.30/8 0.032s} Nh6
+4. dxc5 {+1.17/6 0.007s} Bg7 5. Be2 {+1.18/9 0.033s} f5 6. h4 {+1.78/9 0.022s}
+g5 7. Nxg5 {+3.59/8 0.009s} a5 8. Nc3 {+10.80/8 0.007s} a4
+9. e4 {+10.62/8 0.015s} Qb6 10. cxb6 {+10.01/12 0.035s} Be5
+11. Nb5 {+12.44/10 0.014s} Nc6 12. exf5 {+12.53/10 0.023s} Bg7
+13. Qd5 {+13.44/9 0.020s} Na7 14. Bh5+ {+17.32/11 0.018s} Kf8
+15. Ne6+ {+16.86/10 0.009s} Kg8 16. Nxg7+ {+21.82/10 0.008s} Nf7
+17. Qxf7# {+M1/10 0.006s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "95"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:38.866 -03"]
+[GameStartTime "2025-05-24T15:49:38.391 -03"]
+[Opening "Polish (Sokolsky) opening"]
+[PlyCount "92"]
+[TimeControl "1"]
+
+1. b4 d5 {+0.57/7 0.035s} 2. f3 e6 {+1.71/8 0.030s} 3. Na3 Nf6 {+2.19/10 0.027s}
+4. d3 Bxb4+ {+3.44/6 0.007s} 5. Qd2 Bxd2+ {+8.15/10 0.010s} 6. Kd1
+Bb4 {+9.25/13 0.035s} 7. g3 h6 {+9.51/9 0.031s} 8. Bd2 Bxa3 {+10.37/8 0.006s}
+9. Nh3 e5 {+10.93/10 0.034s} 10. Be1 Bb2 {+11.50/11 0.030s} 11. Bc3
+Bxc3 {+12.71/10 0.009s} 12. Bg2 Bxa1 {+15.27/11 0.026s} 13. Ke1
+Bc3+ {+16.39/9 0.012s} 14. Kf2 Bg4 {+16.55/10 0.016s} 15. Kf1
+Bxh3 {+16.65/9 0.019s} 16. a4 Ke7 {+17.23/10 0.017s} 17. Kg1
+Qd6 {+17.23/8 0.013s} 18. a5 Bd7 {+17.55/8 0.005s} 19. f4
+exf4 {+17.55/10 0.009s} 20. Kf1 g5 {+17.73/8 0.011s} 21. h3
+f3 {+18.37/12 0.013s} 22. e4 Qxg3 {+M7/7 0.002s} 23. Kg1 Bd4+ {+M1/10 0.001s}
+24. Kf1 Bc3 {+M1/10 0.001s} 25. Bxf3 Qxf3+ {+M5/10 0.005s} 26. Kg1
+Bd4+ {+M3/10 0.002s} 27. Kh2 Qf4+ {+M1/10 0.001s} 28. Kg2 Qd2+ {+M1/7 0.002s}
+29. Kf3 g4+ {+M1/10 0.001s} 30. hxg4 Qe3+ {+M1/10 0.001s} 31. Kg2
+Qf2+ {+M3/10 0.002s} 32. Kh3 Qe3+ {+M1/10 0.001s} 33. Kh2 Qf2+ {+M3/10 0.002s}
+34. Kh3 h5 {+M1/10 0.002s} 35. Ra1 Qe3+ {+M1/10 0.001s} 36. Kg2
+Qd2+ {+M3/10 0.001s} 37. Kg3 Be5+ {+M3/10 0.002s} 38. Kh4 Qh2+ {+M1/10 0.001s}
+39. Kg5 Qf4+ {+M1/10 0.001s} 40. Kh4 Qg3+ {+M1/10 0s} 41. Kg5
+Qe3+ {+M1/10 0.001s} 42. Kh4 Qg3+ {+M1/10 0.001s} 43. Kg5 Qf4+ {+M1/10 0s}
+44. Kh4 Qh2+ {+M1/10 0.001s} 45. Kg5 Nh7+ {+M1/10 0.001s} 46. Kh6
+hxg4# {+M1/10 0.001s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "96"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:39.331 -03"]
+[GameStartTime "2025-05-24T15:49:38.877 -03"]
+[Opening "Queen's pawn"]
+[PlyCount "57"]
+[TimeControl "1"]
+
+1. d4 {+0.46/8 0.023s} e6 2. a3 {+0.55/8 0.010s} c6 3. e4 {+0.86/8 0.011s} f6
+4. Bd3 {+1.56/8 0.025s} Na6 5. h4 {+2.05/8 0.015s} Nb8 6. e5 {+2.31/9 0.033s}
+Kf7 7. Nf3 {+3.26/8 0.013s} Bxa3 8. bxa3 {+7.27/9 0.012s} b6
+9. h5 {+6.96/10 0.021s} f5 10. a4 {+6.73/11 0.035s} Nf6
+11. Ng5+ {+8.64/8 0.007s} Kf8 12. a5 {+8.32/10 0.022s} Ke8
+13. exf6 {+8.09/10 0.007s} gxf6 14. Nf3 {+7.58/11 0.034s} c5
+15. Nc3 {+7.98/10 0.030s} f4 16. Nb5 {+8.56/8 0.008s} Rg8
+17. Bxf4 {+8.64/10 0.019s} Rg5 18. Nc7+ {+10.13/8 0.004s} Kf8
+19. Nxa8 {+10.39/10 0.004s} Rxg2 20. Nc7 {+10.84/10 0.019s} e5
+21. axb6 {+11.39/10 0.019s} a5 22. dxe5 {+12.63/9 0.008s} Qe7
+23. Nd5 {+14.26/6 0.003s} Kg7 24. Nxe7 {+16.91/7 0.003s} d6
+25. exd6 {+16.77/10 0.014s} Kf8 26. Qe2 {+17.96/9 0.005s} Bd7
+27. Bxh7 {+18.68/9 0.005s} Kg7 28. Ng6 {+18.91/9 0.007s} Bc6
+29. Qe7# {+M1/5 0.001s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "97"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:39.553 -03"]
+[GameStartTime "2025-05-24T15:49:39.342 -03"]
+[Opening "Amar (Paris) Opening"]
+[PlyCount "22"]
+[TimeControl "1"]
+
+1. Nh3 e5 {+0.31/8 0.029s} 2. d3 h6 {+0.89/9 0.018s} 3. g3 Nc6 {+0.93/7 0.015s}
+4. d4 exd4 {+1.19/8 0.032s} 5. c4 d5 {+2.10/8 0.015s} 6. a4
+dxc4 {+3.38/9 0.017s} 7. e4 a5 {+4.91/8 0.016s} 8. Ke2 Bb4 {+5.85/9 0.020s}
+9. e5 Nxe5 {+11.44/9 0.011s} 10. Be3 d3+ {+M3/10 0.006s} 11. Qxd3
+Qxd3# {+M1/10 0.014s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "98"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:39.965 -03"]
+[GameStartTime "2025-05-24T15:49:39.564 -03"]
+[Opening "Queen's pawn"]
+[PlyCount "39"]
+[TimeControl "1"]
+
+1. d4 {+0.46/8 0.023s} g5 2. c4 {+1.83/8 0.009s} d6 3. d5 {+1.73/8 0.030s} e5
+4. g3 {+1.08/7 0.008s} h5 5. Bg2 {+0.89/8 0.018s} f6 6. Qc2 {+1.12/9 0.035s} e4
+7. h4 {+2.95/9 0.012s} c5 8. Bxe4 {+3.77/10 0.013s} Nh6
+9. hxg5 {+4.69/11 0.035s} Be6 10. gxh6 {+9.73/9 0.006s} Kd7
+11. Bg6 {+10.21/8 0.020s} Bf7 12. Bxf7 {+10.73/6 0.005s} Rxh6
+13. Be6+ {+11.07/9 0.026s} Kc7 14. Na3 {+10.71/8 0.036s} h4
+15. Nb5+ {+10.66/8 0.029s} Kb6 16. Qb3 {+10.78/9 0.026s} Qc8
+17. Bxc8 {+14.31/10 0.016s} f5 18. Nxd6+ {+M9/9 0.007s} Ka5
+19. Bd2+ {+M1/13 0.002s} Ka6 20. Qb5# {+M1/10 0.003s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "99"]
+[White "Lontra"]
+[Black "Stockfish_L2"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:40.368 -03"]
+[GameStartTime "2025-05-24T15:49:39.978 -03"]
+[Opening "Clemenz (Mead's, Basman's or de Klerk's) Opening"]
+[PlyCount "38"]
+[TimeControl "1"]
+
+1. h3 e5 {+0.18/7 0.033s} 2. Na3 Bxa3 {+1.21/7 0.021s} 3. c4
+Bf8 {+5.78/9 0.026s} 4. c5 Be7 {+6.61/9 0.020s} 5. Nf3 d6 {+5.56/10 0.033s}
+6. d3 Nc6 {+6.00/9 0.027s} 7. Qa4 Bd7 {+6.00/8 0.017s} 8. Qxa7
+Rxa7 {+9.43/7 0.006s} 9. a4 dxc5 {+10.57/8 0.024s} 10. b4 Nxb4 {+10.80/7 0.009s}
+11. Bg5 Nc2+ {+12.50/10 0.025s} 12. Kd1 Nxa1 {+12.39/10 0.019s} 13. a5
+h5 {+13.90/11 0.027s} 14. Rh2 Bxg5 {+14.63/8 0.008s} 15. Ng1
+Rxa5 {+15.69/10 0.022s} 16. h4 Bg4 {+17.24/12 0.023s} 17. g3
+Qxd3+ {+M3/8 0.004s} 18. Ke1 Qc3+ {+M1/10 0.001s} 19. Kd1
+Qd2# {+M1/15 0.001s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2025.05.24"]
+[Round "100"]
+[White "Stockfish_L2"]
+[Black "Lontra"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2025-05-24T15:49:40.743 -03"]
+[GameStartTime "2025-05-24T15:49:40.379 -03"]
+[Opening "King's pawn Opening"]
+[PlyCount "43"]
+[TimeControl "1"]
+
+1. e4 {+0.46/8 0.024s} b5 2. d4 {+1.67/8 0.026s} h5 3. Be2 {+2.29/7 0.009s} b4
+4. h3 {+1.91/9 0.017s} Na6 5. e5 {+2.39/9 0.018s} e6 6. Nd2 {+1.83/8 0.016s} b3
+7. axb3 {+3.34/11 0.031s} Be7 8. Bxa6 {+6.75/10 0.007s} c5
+9. Ngf3 {+6.57/12 0.033s} Bf8 10. Bf1 {+7.12/11 0.029s} Qf6
+11. exf6 {+9.89/9 0.006s} gxf6 12. Nc4 {+10.57/10 0.012s} Bb7
+13. Be3 {+10.80/10 0.018s} d6 14. dxc5 {+11.71/13 0.028s} Kd7
+15. Nxd6 {+14.41/8 0.008s} Rh7 16. Bf4 {+15.72/8 0.007s} Rh8
+17. Nf5+ {+M5/9 0.005s} Bd5 18. Bb5+ {+16.87/11 0.026s} Kc8
+19. Qd4 {+17.87/9 0.012s} Bxc5 20. Qxc5+ {+M5/10 0.006s} Kd8
+21. Ra6 {+M1/12 0.001s} Rh7 22. Rd6# {+M1/17 0.001s, White mates} 1-0
+

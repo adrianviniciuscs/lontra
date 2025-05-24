@@ -1,0 +1,4 @@
+Opponent|Wins|Losses|Draws|Score%
+Stockfish_L0|0|100|0|0%
+Stockfish_L1|0|100|0|0%
+Stockfish_L2|0|100|0|0%

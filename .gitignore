@@ -29,4 +29,18 @@
 # Executables
 *.exe
 *.out
+
+# Build directories
+build/
+/build/
+CMakeFiles/
+/CMakeFiles/
+
+# CMake generated files
+CMakeCache.txt
+*.cmake
+Makefile
+
+# Backup files
+*.bak
 *.app

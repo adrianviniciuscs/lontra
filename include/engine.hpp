@@ -47,7 +47,7 @@ public:
      * @brief Get the version of the engine
      * @return The engine version
      */
-    std::string getVersion() const { return "0.1"; }
+    std::string getVersion() const { return "1.0"; }
     
     /**
      * @brief Get the author of the engine
